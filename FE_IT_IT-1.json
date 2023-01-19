@@ -1,0 +1,124 @@
+{
+  "Monday": [
+    {
+      "lectureName": "Induction",
+      "lectureFacultyName": "Mudita Dixit ",
+      "lectureBatch": "All",
+      "lectureStartTime": "8:00 am",
+      "lectureEndTime": "10:00 am"
+    },
+    {
+      "lectureName": "EMECH ",
+      "lectureFacultyName": " ",
+      "lectureBatch": "All",
+      "lectureStartTime": "10:15 am",
+      "lectureEndTime": "12:15 pm"
+    },
+    {
+      "lectureName": "BEE labs",
+      "lectureFacultyName": " ",
+      "lectureBatch": "All",
+      "lectureStartTime": "1:00 pm",
+      "lectureEndTime": "3:00 pm"
+    }
+  ],
+  "Tuesday": [
+    {
+      "lectureName": "Em",
+      "lectureFacultyName": " ",
+      "lectureBatch": "All",
+      "lectureStartTime": "8:00 am",
+      "lectureEndTime": "10:00 am"
+    },
+    {
+      "lectureName": "BEE",
+      "lectureFacultyName": " ",
+      "lectureBatch": "All",
+      "lectureStartTime": "10:15 am",
+      "lectureEndTime": "11:15 am"
+    },
+    {
+      "lectureName": "WS",
+      "lectureFacultyName": " ",
+      "lectureBatch": "All",
+      "lectureStartTime": "1:00 pm",
+      "lectureEndTime": "3:00 pm"
+    }
+  ],
+  "Wednesday": [
+    {
+      "lectureName": "EC",
+      "lectureFacultyName": " ",
+      "lectureBatch": "All",
+      "lectureStartTime": "8:00 am",
+      "lectureEndTime": "10:00 am"
+    },
+    {
+      "lectureName": "EM",
+      "lectureFacultyName": " ",
+      "lectureBatch": "All",
+      "lectureStartTime": "10:15 am",
+      "lectureEndTime": "11:15 pm"
+    },
+    {
+      "lectureName": "EM Tutorial",
+      "lectureFacultyName": " ",
+      "lectureBatch": "All",
+      "lectureStartTime": "11:15 am",
+      "lectureEndTime": "12:15 pm"
+    },
+    {
+      "lectureName": "EP/EC",
+      "lectureFacultyName": " ",
+      "lectureBatch": "H3",
+      "lectureStartTime": "1:00 pm",
+      "lectureEndTime": "3:00 pm"
+    }
+  ],
+  "Thursday": [
+    {
+      "lectureName": "EMECH",
+      "lectureFacultyName": " ",
+      "lectureBatch": "All",
+      "lectureStartTime": "8:00 am",
+      "lectureEndTime": "10:00 am"
+    },
+    {
+      "lectureName": "EMECH",
+      "lectureFacultyName": " ",
+      "lectureBatch": "All",
+      "lectureStartTime": "10:15 am",
+      "lectureEndTime": "11:15 am"
+    },
+    {
+      "lectureName": "BEE",
+      "lectureFacultyName": " ",
+      "lectureBatch": "All",
+      "lectureStartTime": "11:15 am",
+      "lectureEndTime": "12:15 pm"
+    },
+    {
+      "lectureName": "EMECH",
+      "lectureFacultyName": " ",
+      "lectureBatch": "H1H2",
+      "lectureStartTime": "1:00 pm",
+      "lectureEndTime": "3:00 pm"
+    }
+  ],
+  "Friday": [
+    {
+      "lectureName": "EP",
+      "lectureFacultyName": " ",
+      "lectureBatch": "All",
+      "lectureStartTime": "10:15 am",
+      "lectureEndTime": "12:15am"
+    },
+    {
+      "lectureName": "EP/EC",
+      "lectureFacultyName": " ",
+      "lectureBatch": "H1H2",
+      "lectureStartTime": "1:00 pm",
+      "lectureEndTime": "3:00 pm"
+    }
+  ]
+}
