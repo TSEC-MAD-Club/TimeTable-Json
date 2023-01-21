@@ -63,14 +63,14 @@
     {
       "lectureName": "EM",
       "lectureFacultyName": " ",
-      "lectureBatch": "all",
+      "lectureBatch": "All",
       "lectureStartTime": "1:00 pm",
       "lectureEndTime": "2:00 pm"
     },
     {
       "lectureName": "EM Tutorial",
       "lectureFacultyName": " ",
-      "lectureBatch": "all",
+      "lectureBatch": "All",
       "lectureStartTime": "2:00 pm",
       "lectureEndTime": "3:00 pm"
     }
@@ -109,7 +109,7 @@
     {
       "lectureName": "EC",
       "lectureFacultyName": " ",
-      "lectureBatch": "all",
+      "lectureBatch": "All",
       "lectureStartTime": "10:15 am",
       "lectureEndTime": "12:15am"
     },
