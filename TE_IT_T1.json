@@ -1,0 +1,261 @@
+"Monday" : [
+    {
+        "lectureName" : "WX", 
+        "lectureFacultyName" : "Sunita Rathod", 
+        "lectureBatch" : "All", 
+        "lectureStartTime" : "10:30 am", 
+        "lectureEndTime" : "11:30 am" 
+       }, 
+       {
+        "lectureName" : "IP", 
+        "lectureFacultyName" : "Arun Kulkarni", 
+        "lectureBatch" : "All", 
+        "lectureStartTime" : "11:30 am", 
+        "lectureEndTime" : "12:30 pm" 
+       }, 
+       {
+        "lectureName" : "WT", 
+        "lectureFacultyName" : "Sanjay Kumar Pandey", 
+        "lectureBatch" : "All", 
+        "lectureStartTime" : "1:30 pm", 
+        "lectureEndTime" : "2:30 pm" 
+       },
+    {
+      "lectureName" : "DSPL labs", 
+      "lectureFacultyName" : "Darshan Ingle", 
+      "lectureBatch" : "T11", 
+      "lectureStartTime" : "2:30 pm", 
+      "lectureEndTime" : "4:30 pm" 
+     }, 
+     {
+      "lectureName" : "BI labs", 
+      "lectureFacultyName" : "Shanti Therese", 
+      "lectureBatch" : "T12", 
+      "lectureStartTime" : "2:30 pm", 
+      "lectureEndTime" : "4:30 pm" 
+     }, 
+     {
+      "lectureName" : "WL labs", 
+      "lectureFacultyName" : "Sunita Rathod", 
+      "lectureBatch" : "T13", 
+      "lectureStartTime" : "2:30 pm", 
+      "lectureEndTime" : "4:30 pm" 
+     },
+     {
+      "lectureName" : "SL labs", 
+      "lectureFacultyName" : "Nagaveni Hebbar", 
+      "lectureBatch" : "T14", 
+      "lectureStartTime" : "2:30 pm", 
+      "lectureEndTime" : "4:30 pm" 
+     }, 
+    ],
+ "Tuesday" : [
+    {
+        "lectureName" : "WX", 
+        "lectureFacultyName" : "Sunita Rathod", 
+        "lectureBatch" : "All", 
+        "lectureStartTime" : "10:30 am", 
+        "lectureEndTime" : "11:30 am" 
+       }, 
+       {
+        "lectureName" : "DMBI", 
+        "lectureFacultyName" : "Shanti Therese", 
+        "lectureBatch" : "All", 
+        "lectureStartTime" : "11:30 am", 
+        "lectureEndTime" : "12:30 pm" 
+       }, 
+       {
+        "lectureName" : "AI-DS", 
+        "lectureFacultyName" : "Darshan Ingle", 
+        "lectureBatch" : "All", 
+        "lectureStartTime" : "1:30 pm", 
+        "lectureEndTime" : "2:30 pm" 
+       },
+       {
+        "lectureName" : "IP ", 
+        "lectureFacultyName" : "Anjali Malviya", 
+        "lectureBatch" : "All", 
+        "lectureStartTime" : "2:30 pm", 
+        "lectureEndTime" : "3:30 pm" 
+       }, 
+   
+    {
+      "lectureName" : "WT ", 
+      "lectureFacultyName" : "Sanjay Kumar Pandey", 
+      "lectureBatch" : "All", 
+      "lectureStartTime" : "3:30 pm", 
+      "lectureEndTime" : "4:30 pm" 
+     },
+ ],
+  "Wednesday" : [
+    {
+        "lectureName" : "AI-DS", 
+        "lectureFacultyName" : "Darshan Ingle", 
+        "lectureBatch" : "All", 
+        "lectureStartTime" : "10:30 am", 
+        "lectureEndTime" : "11:30 am" 
+       }, 
+       {
+        "lectureName" : "DMBI", 
+        "lectureFacultyName" : "Shanti Therese", 
+        "lectureBatch" : "All", 
+        "lectureStartTime" : "11:30 am", 
+        "lectureEndTime" : "12:30 pm" 
+       }, 
+       {
+        "lectureName" : "WX", 
+        "lectureFacultyName" : "Sunita Rathod", 
+        "lectureBatch" : "All", 
+        "lectureStartTime" : "1:30 pm", 
+        "lectureEndTime" : "2:30 pm" 
+       },
+      {
+      "lectureName" : "SL labs", 
+      "lectureFacultyName" : "Nagaveni Hebbar", 
+      "lectureBatch" : "T11", 
+      "lectureStartTime" : "2:30 pm", 
+      "lectureEndTime" : "4:30 pm" 
+     }, 
+     {
+      "lectureName" : "DSPL labs", 
+      "lectureFacultyName" : "Darshan Ingle", 
+      "lectureBatch" : "T12", 
+      "lectureStartTime" : "2:30 pm", 
+      "lectureEndTime" : "4:30 pm" 
+     }, 
+     {
+      "lectureName" : "BI labs", 
+      "lectureFacultyName" : "Shanti Therese", 
+      "lectureBatch" : "T13", 
+      "lectureStartTime" : "2:30 pm", 
+      "lectureEndTime" : "4:30 pm" 
+     },
+     {
+      "lectureName" : "WL labs", 
+      "lectureFacultyName" : "Sunita Rathod", 
+      "lectureBatch" : "T14", 
+      "lectureStartTime" : "2:30 pm", 
+      "lectureEndTime" : "4:30 pm" 
+     }, 
+    ],
+
+   "Thursday" : [
+    {
+        "lectureName" : "WL labs", 
+        "lectureFacultyName" : "Sunita Rathod", 
+        "lectureBatch" : "T11", 
+        "lectureStartTime" : "10:30 pm", 
+        "lectureEndTime" : "12:30 pm" 
+       }, 
+       {
+        "lectureName" : "SL labs", 
+        "lectureFacultyName" : "Sanjay Kumar Pandey", 
+        "lectureBatch" : "T12", 
+        "lectureStartTime" : "10:30 pm", 
+        "lectureEndTime" : "12:30 pm" 
+       }, 
+       {
+        "lectureName" : "DSPL labs", 
+        "lectureFacultyName" : "Darshan Ingle", 
+        "lectureBatch" : "T13", 
+        "lectureStartTime" : "10:30 pm", 
+        "lectureEndTime" : "12:30 pm" 
+       },
+       {
+        "lectureName" : "BI labs", 
+        "lectureFacultyName" : "Sanober Shaikh", 
+        "lectureBatch" : "T14", 
+        "lectureStartTime" : "10:30 pm", 
+        "lectureEndTime" : "12:30 pm" 
+       }, 
+       {
+        "lectureName" : "IP", 
+        "lectureFacultyName" : "Anjali Malviya", 
+        "lectureBatch" : "All", 
+        "lectureStartTime" : "1:30 pm", 
+        "lectureEndTime" : "2:30 pm" 
+       },
+       {
+        "lectureName" : "MAD labs", 
+        "lectureFacultyName" : "Chetan Agarwal", 
+        "lectureBatch" : "T11", 
+        "lectureStartTime" : "2:30 pm", 
+        "lectureEndTime" : "4:30 pm" 
+       }, 
+       {
+        "lectureName" : "MAD labs", 
+        "lectureFacultyName" : "Sanjay Kumar Pandey", 
+        "lectureBatch" : "T12", 
+        "lectureStartTime" : "2:30 pm", 
+        "lectureEndTime" : "4:30 pm" 
+       }, 
+       {
+        "lectureName" : "BI labs", 
+        "lectureFacultyName" : "Nagaveni Hebbar", 
+        "lectureBatch" : "T13", 
+        "lectureStartTime" : "2:30 pm", 
+        "lectureEndTime" : "4:30 pm" 
+       },
+       {
+        "lectureName" : "WL labs", 
+        "lectureFacultyName" : "Darshan Ingle", 
+        "lectureBatch" : "T14", 
+        "lectureStartTime" : "2:30 pm", 
+        "lectureEndTime" : "4:30 pm" 
+       }, 
+ 
+   ],
+ 
+   "Friday" : [
+    {
+        "lectureName" : "BI labs", 
+        "lectureFacultyName" : "Sanober Shaikh", 
+        "lectureBatch" : "T11", 
+        "lectureStartTime" : "10:30 pm", 
+        "lectureEndTime" : "12:30 pm" 
+       }, 
+       {
+        "lectureName" : "WL labs", 
+        "lectureFacultyName" : "Sunita Rathod", 
+        "lectureBatch" : "T12", 
+        "lectureStartTime" : "10:30 pm", 
+        "lectureEndTime" : "12:30 pm" 
+       }, 
+       {
+        "lectureName" : "MAD labs", 
+        "lectureFacultyName" : "Chetan Agarwal", 
+        "lectureBatch" : "T13", 
+        "lectureStartTime" : "10:30 pm", 
+        "lectureEndTime" : "12:30 pm" 
+       },
+       {
+        "lectureName" : "MAD labs", 
+        "lectureFacultyName" : "Sanjay Kumar Pandey", 
+        "lectureBatch" : "T14", 
+        "lectureStartTime" : "10:30 pm", 
+        "lectureEndTime" : "12:30 pm" 
+       },
+       {
+        "lectureName" : "WT", 
+        "lectureFacultyName" : "Sanjay Kumar Pandey", 
+        "lectureBatch" : "All", 
+        "lectureStartTime" : "1:30 pm", 
+        "lectureEndTime" : "2:30 pm" 
+       },
+       {
+        "lectureName" : "DMBI ", 
+        "lectureFacultyName" : "Shanti Therese", 
+        "lectureBatch" : "All", 
+        "lectureStartTime" : "2:30 pm", 
+        "lectureEndTime" : "3:30 pm" 
+       }, 
+   
+    {
+      "lectureName" : "AI-DS", 
+      "lectureFacultyName" : "Darshan Ingle", 
+      "lectureBatch" : "All", 
+      "lectureStartTime" : "3:30 pm", 
+      "lectureEndTime" : "4:30 pm" 
+     }, 
+    
+ ],
