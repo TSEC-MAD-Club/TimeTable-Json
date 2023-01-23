@@ -1,0 +1,320 @@
+"Monday" : [
+   
+  
+  {
+     "lectureName" : "SPCC", 
+     "lectureFacultyName" : "Sonal Shroff", 
+     "lectureBatch" : "All", 
+     "lectureStartTime" : "10:15 am", 
+     "lectureEndTime" : "11:15 am" 
+    }, 
+    {
+     "lectureName" : "MCC", 
+     "lectureFacultyName" : "Aejaz Khan", 
+     "lectureBatch" : "All", 
+     "lectureStartTime" : "11:15 am", 
+     "lectureEndTime" : "12:15 pm" 
+    }, 
+    {
+      "lectureName" : "SPCC labs", 
+      "lectureFacultyName" : "Vaibhav Ambhire", 
+      "lectureBatch" : "C21", 
+      "lectureStartTime" : "1:00 pm", 
+      "lectureEndTime" : "3:00 pm" 
+     }, 
+     {
+      "lectureName" : "AI labs", 
+      "lectureFacultyName" : "Vaishali Suryavanshi", 
+      "lectureBatch" : "C22", 
+      "lectureStartTime" : "1:00 pm", 
+      "lectureEndTime" : "3:00 pm" 
+     }, 
+     {
+      "lectureName" : "CSS labs", 
+      "lectureFacultyName" : "Nabanita Mandal", 
+      "lectureBatch" : "C23", 
+      "lectureStartTime" : "1:00 pm", 
+      "lectureEndTime" : "3:00 pm" 
+     },
+     {
+      "lectureName" : "CCL labs", 
+      "lectureFacultyName" : "Shilpa Ingoley", 
+      "lectureBatch" : "C24", 
+      "lectureStartTime" : "1:00 pm", 
+      "lectureEndTime" : "3:00 pm" 
+     }, 
+     {
+      "lectureName" : "MPR", 
+      "lectureFacultyName" : "Parul Jain", 
+      "lectureBatch" : "C21", 
+      "lectureStartTime" : "3:00 pm", 
+      "lectureEndTime" : "4:00 pm" 
+     }, 
+     {
+      "lectureName" : "MPR", 
+      "lectureFacultyName" : "Rupali Sarode", 
+      "lectureBatch" : "C22", 
+      "lectureStartTime" : "3:00 pm", 
+      "lectureEndTime" : "4:00 pm" 
+     },
+     {
+      "lectureName" : "MPR", 
+      "lectureFacultyName" : "Arti Deshpande", 
+      "lectureBatch" : "C23", 
+      "lectureStartTime" : "3:00 pm", 
+      "lectureEndTime" : "4:00 pm" 
+     },
+    {
+      "lectureName" : "MPR", 
+      "lectureFacultyName" : "Vijaya Padmadas", 
+      "lectureBatch" : "C24", 
+      "lectureStartTime" : "3:00 pm", 
+      "lectureEndTime" : "4:00 pm" 
+     },
+   
+    
+ ],
+ "Tuesday" : [
+    {
+     "lectureName" : "QA", 
+     "lectureFacultyName" : "Seema Kolkur", 
+     "lectureBatch" : "All", 
+     "lectureStartTime" : "10:15 am", 
+     "lectureEndTime" : "11:15 am" 
+    },
+    {
+      "lectureName" : "AI", 
+      "lectureFacultyName" : "Vaishali Suryavanshi", 
+      "lectureBatch" : "All", 
+      "lectureStartTime" : "11:15 am", 
+      "lectureEndTime" : "12:15 pm" 
+     }, 
+     {
+      "lectureName" : "SPCC", 
+      "lectureFacultyName" : "Sonal Shroff", 
+      "lectureBatch" : "All", 
+      "lectureStartTime" : "1:00 pm", 
+      "lectureEndTime" : "2:00 pm" 
+     },
+     {
+      "lectureName" : "CSS", 
+      "lectureFacultyName" : "Nabanita Mandal", 
+      "lectureBatch" : "All", 
+      "lectureStartTime" : "2:00 pm", 
+      "lectureEndTime" : "3:00 pm" 
+     },
+     {
+      "lectureName" : "CCL labs", 
+      "lectureFacultyName" : "Sonali Jadhav", 
+      "lectureBatch" : "C21", 
+      "lectureStartTime" : "3:00 pm", 
+      "lectureEndTime" : "5:00 pm" 
+     }, 
+      {
+      "lectureName" : "CCL labs", 
+      "lectureFacultyName" : "Tanuja Sarode", 
+      "lectureBatch" : "C22", 
+      "lectureStartTime" : "3:00 pm", 
+      "lectureEndTime" : "5:00 pm"
+     }, 
+     {
+      "lectureName" : "CCL labs", 
+      "lectureFacultyName" : "Vijaya Padmadas", 
+      "lectureBatch" : "C23", 
+        "lectureStartTime" : "3:00 pm", 
+      "lectureEndTime" : "5:00 pm"
+     },
+     {
+      "lectureName" : "MCC labs", 
+      "lectureFacultyName" : "Aejaz Khan", 
+      "lectureBatch" : "C24", 
+         "lectureStartTime" : "3:00 pm", 
+      "lectureEndTime" : "5:00 pm" 
+     },
+     
+
+ ],
+  "Wednesday" : [
+    {
+      "lectureName" : "CSS", 
+      "lectureFacultyName" : "Tasneem Mirza", 
+      "lectureBatch" : "All", 
+      "lectureStartTime" : "9:15 am", 
+      "lectureEndTime" : "10:15 am" 
+     }, 
+     {
+      "lectureName" : "CCL labs", 
+      "lectureFacultyName" : "Sonali Jadhav", 
+      "lectureBatch" : "C21", 
+      "lectureStartTime" : "10:15 am", 
+      "lectureEndTime" : "12:15 pm" 
+     }, 
+      {
+      "lectureName" : "CCL labs", 
+      "lectureFacultyName" : "Tanuja Sarode", 
+      "lectureBatch" : "C22", 
+      "lectureStartTime" : "10:15 am", 
+      "lectureEndTime" : "12:15 pm" 
+     }, 
+     {
+      "lectureName" : "SPCC labs", 
+      "lectureFacultyName" : "Sonal Shroff", 
+      "lectureBatch" : "C23", 
+      "lectureStartTime" : "10:15 am", 
+      "lectureEndTime" : "12:15 pm" 
+     },
+     {
+      "lectureName" : "AI labs", 
+      "lectureFacultyName" : "Vaishali Suryavanshi", 
+      "lectureBatch" : "C24", 
+      "lectureStartTime" : "10:15 am", 
+      "lectureEndTime" : "12:15 pm" 
+     },
+    {
+     "lectureName" : "AI", 
+     "lectureFacultyName" : "Sonal Shroff", 
+     "lectureBatch" : "All", 
+     "lectureStartTime" : "1:00 pm", 
+     "lectureEndTime" : "2:00 pm" 
+    },
+    {
+     "lectureName" : "SPCC", 
+     "lectureFacultyName" : "Khalid Ansari", 
+     "lectureBatch" : "All", 
+     "lectureStartTime" : "2:00 pm", 
+     "lectureEndTime" : "3:00 pm" 
+    },
+   ],
+   "Thursday" : [
+    {
+     "lectureName" : "AI labs", 
+     "lectureFacultyName" : "Shilpa Verma", 
+     "lectureBatch" : "C21", 
+     "lectureStartTime" : "10:15 am", 
+     "lectureEndTime" : "12:15 pm" 
+    }, 
+     {
+     "lectureName" : "CSS labs", 
+     "lectureFacultyName" : "Tasneem Mirza", 
+     "lectureBatch" : "C22", 
+     "lectureStartTime" : "10:15 am", 
+     "lectureEndTime" : "12:15 pm" 
+    }, 
+    {
+     "lectureName" : "MCC labs", 
+     "lectureFacultyName" : "Anil Chhangani", 
+     "lectureBatch" : "C23", 
+     "lectureStartTime" : "10:15 am", 
+     "lectureEndTime" : "12:15 pm" 
+    },
+    {
+     "lectureName" : "CCL labs", 
+     "lectureFacultyName" : "Shilpa Ingoley", 
+     "lectureBatch" : "C24", 
+     "lectureStartTime" : "10:15 am", 
+     "lectureEndTime" : "12:15 pm" 
+    },
+   
+    {
+     "lectureName" : "QA", 
+     "lectureFacultyName" : "Seema Kolkur",
+     "lectureBatch" : "All", 
+     "lectureStartTime" : "1:00 pm", 
+     "lectureEndTime" : "2:00 pm" 
+    },
+    {
+     "lectureName" : "MCC", 
+     "lectureFacultyName" : "Aejaz Khan", 
+     "lectureBatch" : "All", 
+     "lectureStartTime" : "2:00 pm", 
+     "lectureEndTime" : "3:00 pm" 
+    },
+    {
+      "lectureName" : "MCC labs", 
+      "lectureFacultyName" : "Aejaz Khan", 
+      "lectureBatch" : "C21", 
+      "lectureStartTime" : "3:00 pm", 
+      "lectureEndTime" : "5:00 pm" 
+     }, 
+      {
+      "lectureName" : "SPCC labs", 
+      "lectureFacultyName" : "Sonal Shroff", 
+      "lectureBatch" : "C22", 
+      "lectureStartTime" : "3:00 pm", 
+      "lectureEndTime" : "5:00 pm"
+     }, 
+     {
+      "lectureName" : "AI labs", 
+      "lectureFacultyName" : "Vaishali Suryavanshi", 
+      "lectureBatch" : "C23", 
+        "lectureStartTime" : "3:00 pm", 
+      "lectureEndTime" : "5:00 pm"
+     },
+     {
+      "lectureName" : "CSS labs", 
+      "lectureFacultyName" : "Parul Jain", 
+      "lectureBatch" : "C24", 
+         "lectureStartTime" : "3:00 pm", 
+      "lectureEndTime" : "5:00 pm" 
+     },
+   
+ ],
+ 
+   "Friday" : [
+    {
+     "lectureName" : "QA", 
+     "lectureFacultyName" : "Seema Kolkur", 
+     "lectureBatch" : "All", 
+     "lectureStartTime" : "10:15 am", 
+     "lectureEndTime" : "11:15 am" 
+    }, 
+    {
+     "lectureName" : "AI", 
+     "lectureFacultyName" : "Vaishali Suryavanshi", 
+     "lectureBatch" : "All", 
+     "lectureStartTime" : "11:15 am", 
+     "lectureEndTime" : "12:15 pm" 
+    },
+    {
+      "lectureName" : "CSS", 
+      "lectureFacultyName" : "Nabanita Mandal",
+      "lectureBatch" : "All", 
+      "lectureStartTime" : "1:00 pm", 
+      "lectureEndTime" : "2:00 pm" 
+     },
+     {
+      "lectureName" : "MCC", 
+      "lectureFacultyName" : "Sonali Jadhav", 
+      "lectureBatch" : "All", 
+      "lectureStartTime" : "2:00 pm", 
+      "lectureEndTime" : "3:00 pm" 
+     },
+     {
+       "lectureName" : "CSS labs", 
+       "lectureFacultyName" : "Khalid Ansari", 
+       "lectureBatch" : "C21", 
+       "lectureStartTime" : "3:00 pm", 
+       "lectureEndTime" : "5:00 pm" 
+      }, 
+       {
+       "lectureName" : "MCC labs", 
+       "lectureFacultyName" : "Parul Jain", 
+       "lectureBatch" : "C22", 
+       "lectureStartTime" : "3:00 pm", 
+       "lectureEndTime" : "5:00 pm"
+      }, 
+      {
+       "lectureName" : "CCL labs", 
+       "lectureFacultyName" : "Vijaya Padmadas", 
+       "lectureBatch" : "C23", 
+         "lectureStartTime" : "3:00 pm", 
+       "lectureEndTime" : "5:00 pm"
+      },
+      {
+        "lectureName" : "SPCC labs", 
+        "lectureFacultyName" : "Sonal Shroff", 
+        "lectureBatch" : "C24", 
+           "lectureStartTime" : "3:00 pm", 
+        "lectureEndTime" : "5:00 pm" 
+       },
+     ],
