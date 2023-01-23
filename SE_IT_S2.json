@@ -1,0 +1,236 @@
+{
+   "Monday": [
+      {
+         "lectureName": "COA",
+         "lectureFacultyName": "Reshma Malik",
+         "lectureBatch": "All",
+         "lectureStartTime": "9:30 am",
+         "lectureEndTime": "10:30 am"
+      },
+      {
+         "lectureName": "PY labs",
+         "lectureFacultyName": "Sachi Natu",
+         "lectureBatch": "S21",
+         "lectureStartTime": "10:30 am",
+         "lectureEndTime": "12:30 pm"
+      },
+      {
+         "lectureName": "PY labs",
+         "lectureFacultyName": "Mukesh Israni",
+         "lectureBatch": "S22",
+         "lectureStartTime": "10:30 am",
+         "lectureEndTime": "12:30 pm"
+      },
+      {
+         "lectureName": "NT labs",
+         "lectureFacultyName": "Kumkum Saxena",
+         "lectureBatch": "S23",
+         "lectureStartTime": "10:30 am",
+         "lectureEndTime": "12:30 pm"
+      },
+      {
+         "lectureName": "CN",
+         "lectureFacultyName": "Kumkum Saxena",
+         "lectureBatch": "All",
+         "lectureStartTime": "1:30 pm",
+         "lectureEndTime": "2:30 pm"
+      },
+      {
+         "lectureName": "AT",
+         "lectureFacultyName": "Nikhilesh Joshi",
+         "lectureBatch": "All",
+         "lectureStartTime": "2:30 pm",
+         "lectureEndTime": "3:30 pm"
+      },
+      {
+         "lectureName": "EM Tutorials",
+         "lectureFacultyName": "Mansha Kotwani",
+         "lectureBatch": "All",
+         "lectureStartTime": "3:30 pm",
+         "lectureEndTime": "4:30 pm"
+      }
+   ],
+   "Tuesday": [
+      {
+         "lectureName": "EM ",
+         "lectureFacultyName": "Mansha Kotwani",
+         "lectureBatch": "All",
+         "lectureStartTime": "10:30 am",
+         "lectureEndTime": "11:30 am"
+      },
+      {
+         "lectureName": "CN",
+         "lectureFacultyName": "Kumkum Saxena",
+         "lectureBatch": "All",
+         "lectureStartTime": "11:30 am",
+         "lectureEndTime": "12:30 pm"
+      },
+      {
+         "lectureName": "COA",
+         "lectureFacultyName": "Anuradha M",
+         "lectureBatch": "All",
+         "lectureStartTime": "1:30 pm",
+         "lectureEndTime": "2:30 pm"
+      },
+      {
+         "lectureName": "NT labs",
+         "lectureFacultyName": "Kumkum Saxena",
+         "lectureBatch": "S21",
+         "lectureStartTime": "2:30 pm",
+         "lectureEndTime": "4:30 pm"
+      },
+      {
+         "lectureName": "MP labs",
+         "lectureFacultyName": "Anuradha M",
+         "lectureBatch": "S22",
+         "lectureStartTime": "2:30 pm",
+         "lectureEndTime": "4:30 pm"
+      },
+      {
+         "lectureName": "UL labs",
+         "lectureFacultyName": "Archana Kale",
+         "lectureBatch": "S23",
+         "lectureStartTime": "2:30 pm",
+         "lectureEndTime": "4:30 pm"
+      }
+   ],
+   "Wednesday": [
+      {
+         "lectureName": "OS",
+         "lectureFacultyName": "Mukesh Israni",
+         "lectureBatch": "All",
+         "lectureStartTime": "9:30 am",
+         "lectureEndTime": "10:30 am"
+      },
+      {
+         "lectureName": "EM ",
+         "lectureFacultyName": "Mansha Kotwani",
+         "lectureBatch": "All",
+         "lectureStartTime": "10:30 am",
+         "lectureEndTime": "12:30 pm"
+      },
+      {
+         "lectureName": "COA",
+         "lectureFacultyName": "Anuradha M",
+         "lectureBatch": "All",
+         "lectureStartTime": "1:30 pm",
+         "lectureEndTime": "2:30 pm"
+      },
+      {
+         "lectureName": "MP labs",
+         "lectureFacultyName": "Anuradha M",
+         "lectureBatch": "S21",
+         "lectureStartTime": "2:30 pm",
+         "lectureEndTime": "4:30 pm"
+      },
+      {
+         "lectureName": "NT labs",
+         "lectureFacultyName": "Kumkum Saxena",
+         "lectureBatch": "S22",
+         "lectureStartTime": "2:30 pm",
+         "lectureEndTime": "4:30 pm"
+      },
+      {
+         "lectureName": "PY labs",
+         "lectureFacultyName": "Nikhilesh Joshi",
+         "lectureBatch": "S23",
+         "lectureStartTime": "2:30 pm",
+         "lectureEndTime": "4:30 pm"
+      }
+   ],
+   "Thursday": [
+      {
+         "lectureName": "EM Tutorials",
+         "lectureFacultyName": "Mansha Kotwani",
+         "lectureBatch": "All",
+         "lectureStartTime": "9:30 am",
+         "lectureEndTime": "10:30 am"
+      },
+      {
+         "lectureName": "AT",
+         "lectureFacultyName": "Nikhilesh Joshi",
+         "lectureBatch": "All",
+         "lectureStartTime": "10:30 am",
+         "lectureEndTime": "11:30 am"
+      },
+      {
+         "lectureName": "CN",
+         "lectureFacultyName": "Kumkum Saxena",
+         "lectureBatch": "All",
+         "lectureStartTime": "11:30 am",
+         "lectureEndTime": "12:30 pm"
+      },
+      {
+         "lectureName": "OS",
+         "lectureFacultyName": "Archana Kale",
+         "lectureBatch": "All",
+         "lectureStartTime": "1:30 pm",
+         "lectureEndTime": "2:30 pm"
+      },
+      {
+         "lectureName": "UL labs",
+         "lectureFacultyName": "Sachi Natu",
+         "lectureBatch": "S21",
+         "lectureStartTime": "2:30 pm",
+         "lectureEndTime": "4:30 pm"
+      },
+      {
+         "lectureName": "UL labs",
+         "lectureFacultyName": "Archana Kale",
+         "lectureBatch": "S22",
+         "lectureStartTime": "2:30 pm",
+         "lectureEndTime": "4:30 pm"
+      },
+      {
+         "lectureName": "PY labs",
+         "lectureFacultyName": "Nikhilesh Joshi",
+         "lectureBatch": "S23",
+         "lectureStartTime": "2:30 pm",
+         "lectureEndTime": "4:30 pm"
+      }
+   ],
+   "Friday": [
+      {
+         "lectureName": "EM Tutorials",
+         "lectureFacultyName": "Mansha Kotwani",
+         "lectureBatch": "All",
+         "lectureStartTime": "9:30 am",
+         "lectureEndTime": "10:30 am"
+      },
+      {
+         "lectureName": "PY labs",
+         "lectureFacultyName": "Sachi Natu",
+         "lectureBatch": "S21",
+         "lectureStartTime": "10:30 am",
+         "lectureEndTime": "12:30 pm"
+      },
+      {
+         "lectureName": "PY labs",
+         "lectureFacultyName": "Mukesh Israni",
+         "lectureBatch": "S22",
+         "lectureStartTime": "10:30 am",
+         "lectureEndTime": "12:30 pm"
+      },
+      {
+         "lectureName": "MP labs",
+         "lectureFacultyName": "Anuradha M",
+         "lectureBatch": "S23",
+         "lectureStartTime": "10:30 am",
+         "lectureEndTime": "12:30 pm"
+      },
+      {
+         "lectureName": "AT",
+         "lectureFacultyName": "Nikhilesh Joshi",
+         "lectureBatch": "All",
+         "lectureStartTime": "1:30 pm",
+         "lectureEndTime": "2:30 pm"
+      },
+      {
+         "lectureName": "OS",
+         "lectureFacultyName": "Archana Kale",
+         "lectureBatch": "All",
+         "lectureStartTime": "2:30 pm",
+         "lectureEndTime": "3:30 pm"
+      }
+   ]
+}
