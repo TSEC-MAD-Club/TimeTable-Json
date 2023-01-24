@@ -71,6 +71,7 @@
         "lectureStartTime" : "1:30 pm", 
         "lectureEndTime" : "2:30 pm" 
        },
+     {
        "lectureName" : "WL labs", 
       "lectureFacultyName" : "Sunita Rathod", 
       "lectureBatch" : "T11", 
