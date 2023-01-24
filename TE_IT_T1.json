@@ -254,6 +254,7 @@
         "lectureStartTime" : "2:30 pm", 
         "lectureEndTime" : "3:30 pm" 
        }, 
+       {
          "lectureName" : "MINI PROJECT MEET ", 
          "lectureBatch" : "All", 
         "lectureStartTime" : "3:30 pm", 
