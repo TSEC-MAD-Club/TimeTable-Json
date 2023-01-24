@@ -65,28 +65,40 @@
         "lectureEndTime" : "12:30 pm" 
        }, 
        {
-        "lectureName" : "AI-DS", 
-        "lectureFacultyName" : "Darshan Ingle", 
+        "lectureName" : "WT", 
+        "lectureFacultyName" : "Sanjay Kumar Pandey", 
         "lectureBatch" : "All", 
         "lectureStartTime" : "1:30 pm", 
         "lectureEndTime" : "2:30 pm" 
        },
-       {
-        "lectureName" : "IP ", 
-        "lectureFacultyName" : "Anjali Malviya", 
-        "lectureBatch" : "All", 
-        "lectureStartTime" : "2:30 pm", 
-        "lectureEndTime" : "3:30 pm" 
-       }, 
-   
-    {
-      "lectureName" : "WT ", 
-      "lectureFacultyName" : "Sanjay Kumar Pandey", 
-      "lectureBatch" : "All", 
-      "lectureStartTime" : "3:30 pm", 
+       "lectureName" : "WL labs", 
+      "lectureFacultyName" : "Sunita Rathod", 
+      "lectureBatch" : "T11", 
+      "lectureStartTime" : "2:30 pm", 
+      "lectureEndTime" : "4:30 pm" 
+     }, 
+     {
+      "lectureName" : "SL labs", 
+      "lectureFacultyName" : "Mukesh Israni", 
+      "lectureBatch" : "T12", 
+      "lectureStartTime" : "2:30 pm", 
+      "lectureEndTime" : "4:30 pm" 
+     }, 
+     {
+      "lectureName" : "DSPL labs", 
+      "lectureFacultyName" : "Darshan Ingle", 
+      "lectureBatch" : "T13", 
+      "lectureStartTime" : "2:30 pm", 
       "lectureEndTime" : "4:30 pm" 
      },
- ],
+     {
+      "lectureName" : "BI labs", 
+      "lectureFacultyName" : "Sanober Shaikh", 
+      "lectureBatch" : "T14", 
+      "lectureStartTime" : "2:30 pm", 
+      "lectureEndTime" : "4:30 pm" 
+     }, 
+       ],
   "Wednesday" : [
     {
         "lectureName" : "AI-DS", 
@@ -103,8 +115,8 @@
         "lectureEndTime" : "12:30 pm" 
        }, 
        {
-        "lectureName" : "WX", 
-        "lectureFacultyName" : "Sunita Rathod", 
+        "lectureName" : "IP", 
+        "lectureFacultyName" : "Anjali Malviya", 
         "lectureBatch" : "All", 
         "lectureStartTime" : "1:30 pm", 
         "lectureEndTime" : "2:30 pm" 
@@ -141,31 +153,17 @@
 
    "Thursday" : [
     {
-        "lectureName" : "WL labs", 
-        "lectureFacultyName" : "Sunita Rathod", 
-        "lectureBatch" : "T11", 
-        "lectureStartTime" : "10:30 pm", 
-        "lectureEndTime" : "12:30 pm" 
-       }, 
-       {
-        "lectureName" : "SL labs", 
-        "lectureFacultyName" : "Sanjay Kumar Pandey", 
-        "lectureBatch" : "T12", 
-        "lectureStartTime" : "10:30 pm", 
-        "lectureEndTime" : "12:30 pm" 
-       }, 
-       {
-        "lectureName" : "DSPL labs", 
+        "lectureName" : "AI-DS", 
         "lectureFacultyName" : "Darshan Ingle", 
-        "lectureBatch" : "T13", 
-        "lectureStartTime" : "10:30 pm", 
-        "lectureEndTime" : "12:30 pm" 
-       },
+        "lectureBatch" : "All", 
+        "lectureStartTime" : "10:30 am", 
+        "lectureEndTime" : "11:30 am" 
+       }, 
        {
-        "lectureName" : "BI labs", 
-        "lectureFacultyName" : "Sanober Shaikh", 
-        "lectureBatch" : "T14", 
-        "lectureStartTime" : "10:30 pm", 
+        "lectureName" : "WX", 
+        "lectureFacultyName" : "Sunita Rathod", 
+        "lectureBatch" : "All", 
+        "lectureStartTime" : "11:30 am", 
         "lectureEndTime" : "12:30 pm" 
        }, 
        {
@@ -207,6 +205,13 @@
    ],
  
    "Friday" : [
+        {
+      "lectureName" : "AI-DS", 
+      "lectureFacultyName" : "Darshan Ingle", 
+      "lectureBatch" : "All", 
+      "lectureStartTime" : "9:30 am", 
+      "lectureEndTime" : "10:30 am" 
+     }, 
     {
         "lectureName" : "BI labs", 
         "lectureFacultyName" : "Sanober Shaikh", 
@@ -249,13 +254,12 @@
         "lectureStartTime" : "2:30 pm", 
         "lectureEndTime" : "3:30 pm" 
        }, 
+         "lectureName" : "MINI PROJECT MEET ", 
+         "lectureBatch" : "All", 
+        "lectureStartTime" : "3:30 pm", 
+        "lectureEndTime" : "4:30 pm" 
+       }, 
    
-    {
-      "lectureName" : "AI-DS", 
-      "lectureFacultyName" : "Darshan Ingle", 
-      "lectureBatch" : "All", 
-      "lectureStartTime" : "3:30 pm", 
-      "lectureEndTime" : "4:30 pm" 
-     }, 
+   
     
  ],
