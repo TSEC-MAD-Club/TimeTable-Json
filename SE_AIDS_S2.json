@@ -1,0 +1,243 @@
+{
+  "Monday": [
+    {
+      "lectureName": "AOA",
+      "lectureFacultyName": "Meenu Bhatia",
+      "lectureBatch": "All",
+      "lectureStartTime": "9:00  am",
+      "lectureEndTime": "10:00 am"
+    },
+    {
+      "lectureName": "PY labs",
+      "lectureFacultyName": "Nikita Raichada",
+      "lectureBatch": "S21",
+      "lectureStartTime": "10:00 am",
+      "lectureEndTime": "12:00 pm"
+    },
+    {
+      "lectureName": "PY labs",
+      "lectureFacultyName": "S.S Vichare",
+      "lectureBatch": "S22",
+      "lectureStartTime": "10:00 am",
+      "lectureEndTime": "12:00 pm"
+    },
+    {
+      "lectureName": "PY labs",
+      "lectureFacultyName": "Meenu Bhatia",
+      "lectureBatch": "S23",
+      "lectureStartTime": "10:00 am",
+      "lectureEndTime": "12:00 pm"
+    },
+    {
+      "lectureName": "DBMS",
+      "lectureFacultyName": "Monica Tolani",
+      "lectureBatch": "All",
+      "lectureStartTime": "12:45 pm",
+      "lectureEndTime": "2:45 pm"
+    },
+    {
+      "lectureName": "EM ",
+      "lectureFacultyName": "Poonam Soni",
+      "lectureBatch": "All",
+      "lectureStartTime": "3:00 pm",
+      "lectureEndTime": "4:00 pm"
+    },
+    {
+      "lectureName": "EM ",
+      "lectureFacultyName": "Poonam Soni",
+      "lectureBatch": "S22",
+      "lectureStartTime": "4:00 pm",
+      "lectureEndTime": "5:00 pm"
+    }
+  ],
+  "Tuesday": [
+    {
+      "lectureName": "MP ",
+      "lectureFacultyName": "Saloni Dhuru",
+      "lectureBatch": "All",
+      "lectureStartTime": "9:00 am",
+      "lectureEndTime": "10:00 am"
+    },
+    {
+      "lectureName": "MP labs",
+      "lectureFacultyName": "Bharati Ingale",
+      "lectureBatch": "S21",
+      "lectureStartTime": "10:00 am",
+      "lectureEndTime": "12:00 pm"
+    },
+    {
+      "lectureName": "AOA labs",
+      "lectureFacultyName": "Meenu Bhatia",
+      "lectureBatch": "S22",
+      "lectureStartTime": "10:00 am",
+      "lectureEndTime": "12:00 pm"
+    },
+    {
+      "lectureName": "DBMS labs",
+      "lectureFacultyName": "Saloni Dhuru",
+      "lectureBatch": "S23",
+      "lectureStartTime": "10:00 am",
+      "lectureEndTime": "12:00 pm"
+    },
+    {
+      "lectureName": "MP",
+      "lectureFacultyName": "Bharati Ingale",
+      "lectureBatch": "All",
+      "lectureStartTime": "12:45 pm",
+      "lectureEndTime": "1:45 pm"
+    },
+    {
+      "lectureName": "OS",
+      "lectureFacultyName": "Nikita Raichada",
+      "lectureBatch": "All",
+      "lectureStartTime": "1:45 pm",
+      "lectureEndTime": "2:45 pm"
+    },
+    {
+      "lectureName": "EM ",
+      "lectureFacultyName": "Poonam Soni",
+      "lectureBatch": "S21",
+      "lectureStartTime": "3:00 pm",
+      "lectureEndTime": "4:00 pm"
+    }
+  ],
+  "Wednesday": [
+    {
+      "lectureName": "OS",
+      "lectureFacultyName": "Nikita Raichada",
+      "lectureBatch": "All",
+      "lectureStartTime": "9:00 am",
+      "lectureEndTime": "10:00 am"
+    },
+    {
+      "lectureName": "DBMS labs",
+      "lectureFacultyName": "Monica Tolani",
+      "lectureBatch": "S21",
+      "lectureStartTime": "10:00 am",
+      "lectureEndTime": "12:00 pm"
+    },
+    {
+      "lectureName": "MP labs",
+      "lectureFacultyName": "Bharati Ingale",
+      "lectureBatch": "S22",
+      "lectureStartTime": "10:00 am",
+      "lectureEndTime": "12:00 pm"
+    },
+    {
+      "lectureName": "OS labs",
+      "lectureFacultyName": "Nikita Raichada",
+      "lectureBatch": "S23",
+      "lectureStartTime": "10:00 am",
+      "lectureEndTime": "12:00 pm"
+    },
+    {
+      "lectureName": "MP",
+      "lectureFacultyName": "Bharati Ingale",
+      "lectureBatch": "All",
+      "lectureStartTime": "12:45 pm",
+      "lectureEndTime": "1:45 pm"
+    },
+    {
+      "lectureName": "OS",
+      "lectureFacultyName": "Himani Deshpande",
+      "lectureBatch": "All",
+      "lectureStartTime": "1:45 pm",
+      "lectureEndTime": "2:45 pm"
+    },
+    {
+      "lectureName": "PY ",
+      "lectureFacultyName": "Nikita Raichada or S.S Vichare",
+      "lectureBatch": "All",
+      "lectureStartTime": "3:00 pm",
+      "lectureEndTime": "5:00 pm"
+    }
+  ],
+  "Thursday": [
+    {
+      "lectureName": "AOA labs",
+      "lectureFacultyName": "Meenu Bhatia",
+      "lectureBatch": "S21",
+      "lectureStartTime": "10:00 am",
+      "lectureEndTime": "12:00 pm"
+    },
+    {
+      "lectureName": "OS labs",
+      "lectureFacultyName": "Himani Deshpande",
+      "lectureBatch": "S22",
+      "lectureStartTime": "10:00 am",
+      "lectureEndTime": "12:00 pm"
+    },
+    {
+      "lectureName": "MP labs",
+      "lectureFacultyName": "Saloni Dhuru",
+      "lectureBatch": "S23",
+      "lectureStartTime": "10:00 am",
+      "lectureEndTime": "12:00 pm"
+    },
+    {
+      "lectureName": "AOA",
+      "lectureFacultyName": "BHushan Jadhav",
+      "lectureBatch": "All",
+      "lectureStartTime": "12:45 pm",
+      "lectureEndTime": "1:45 pm"
+    },
+    {
+      "lectureName": "EM ",
+      "lectureFacultyName": "Poonam Soni",
+      "lectureBatch": "All",
+      "lectureStartTime": "1:45 pm",
+      "lectureEndTime": "2:45 pm"
+    }
+  ],
+  "Friday": [
+    {
+      "lectureName": "DBMS",
+      "lectureFacultyName": "Saloni Dhuru",
+      "lectureBatch": "All",
+      "lectureStartTime": "9:00 am",
+      "lectureEndTime": "10:00 am"
+    },
+    {
+      "lectureName": "OS labs",
+      "lectureFacultyName": "Nikita Raichada",
+      "lectureBatch": "S21",
+      "lectureStartTime": "10:00 am",
+      "lectureEndTime": "12:00 pm"
+    },
+    {
+      "lectureName": "DBMS labs",
+      "lectureFacultyName": "Saloni Dhuru",
+      "lectureBatch": "S22",
+      "lectureStartTime": "10:00 am",
+      "lectureEndTime": "12:00 pm"
+    },
+    {
+      "lectureName": "AOA labs",
+      "lectureFacultyName": "Meenu Bhatia",
+      "lectureBatch": "S23",
+      "lectureStartTime": "10:00 am",
+      "lectureEndTime": "12:00 pm"
+    },
+    {
+      "lectureName": "AOA",
+      "lectureFacultyName": "Meenu Bhatia",
+      "lectureBatch": "All",
+      "lectureStartTime": "12:45 pm",
+      "lectureEndTime": "1:45 pm"
+    },
+    {
+      "lectureName": "EM ",
+      "lectureFacultyName": "Poonam Soni",
+      "lectureBatch": "All",
+      "lectureStartTime": "1:45 pm",
+      "lectureEndTime": "4:00 pm"
+    },
+    {
+      "lectureName": "EM ",
+      "lectureFacultyName": "Poonam Soni",
+      "lectureBatch": "S23",
+      "lectureStartTime": "4:00 pm",
+      "lectureEndTime": "5:00 pm"
+    }
+  ]
+}
