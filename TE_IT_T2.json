@@ -34,6 +34,13 @@
         "lectureStartTime" : "2:30 pm", 
         "lectureEndTime" : "3:30 pm" 
        },
+     {
+        "lectureName" : "MENTOR MEET ", 
+        "lectureBatch" : "All", 
+        "lectureStartTime" : "3:30 pm", 
+        "lectureEndTime" : "4:30 pm" 
+       },
+   
    
     ],
  "Tuesday" : [
@@ -72,28 +79,21 @@
         "lectureStartTime" : "1:30 pm", 
         "lectureEndTime" : "2:30 pm" 
        },
-       {
-        "lectureName" : "WL labs", 
-        "lectureFacultyName" : "Sanober Shaikh", 
-        "lectureBatch" : "T21", 
+      {
+        "lectureName" : "IP ", 
+        "lectureFacultyName" : "Anjali Malviya", 
+        "lectureBatch" : "All", 
         "lectureStartTime" : "2:30 pm", 
-        "lectureEndTime" : "4:30 pm" 
-       }, 
-       {
-        "lectureName" : "BI labs", 
-        "lectureFacultyName" : "Shanti Therese", 
-        "lectureBatch" : "T22", 
-        "lectureStartTime" : "2:30 pm", 
-        "lectureEndTime" : "4:30 pm" 
-       }, 
-       {
-        "lectureName" : "SL labs", 
-        "lectureFacultyName" : "Nagaveni Hebbar", 
-        "lectureBatch" : "T23", 
-        "lectureStartTime" : "2:30 pm", 
+        "lectureEndTime" : "3:30 pm" 
+       },
+      {
+        "lectureName" : "MINI PROJECT MEET ", 
+        "lectureBatch" : "All", 
+        "lectureStartTime" : "3:30 pm", 
         "lectureEndTime" : "4:30 pm" 
        },
-      ],
+   
+       ],
   "Wednesday" : [
     {
         "lectureName" : "AI-DS", 
@@ -160,21 +160,36 @@
         "lectureBatch" : "All", 
         "lectureStartTime" : "11:30 am", 
         "lectureEndTime" : "12:30 pm" 
-       }, 
-       {
-        "lectureName" : "IP", 
-        "lectureFacultyName" : "Arun Kulkarni", 
-        "lectureBatch" : "All", 
-        "lectureStartTime" : "1:30 pm", 
-        "lectureEndTime" : "2:30 pm" 
        },
-       {
+        {
         "lectureName" : "WX", 
         "lectureFacultyName" : "Sanober Shaikh", 
         "lectureBatch" : "All", 
-        "lectureStartTime" : "2:30 pm", 
-        "lectureEndTime" : "3:30 pm" 
+        "lectureStartTime" : "1:30 pm", 
+        "lectureEndTime" : "2:30 pm" 
        }, 
+       {
+        "lectureName" : "WL labs", 
+        "lectureFacultyName" : "Sanober Shaikh", 
+        "lectureBatch" : "T21", 
+        "lectureStartTime" : "2:30 pm", 
+        "lectureEndTime" : "4:30 pm" 
+       }, 
+       {
+        "lectureName" : "BI labs", 
+        "lectureFacultyName" : "Shanti Therese", 
+        "lectureBatch" : "T22", 
+        "lectureStartTime" : "2:30 pm", 
+        "lectureEndTime" : "4:30 pm" 
+       }, 
+       {
+        "lectureName" : "WL labs", 
+        "lectureFacultyName" : "Sunita Rathod", 
+        "lectureBatch" : "T23", 
+        "lectureStartTime" : "2:30 pm", 
+        "lectureEndTime" : "4:30 pm" 
+       },
+      
     ],
  
    "Friday" : [
