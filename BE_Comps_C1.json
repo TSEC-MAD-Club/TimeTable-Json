@@ -1,0 +1,196 @@
+{
+    "Monday": [
+        {
+            "lectureName": "SMA Labs",
+            "lectureFacultyName": "Anagha Durugkar",
+            "lectureBatch": "C11",
+            "lectureStartTime": "10:15 am",
+            "lectureEndTime": "12:15 pm"
+        },
+        {
+            "lectureName": "ADS Labs",
+            "lectureFacultyName": "Vijaya Padmadas",
+            "lectureBatch": "C12",
+            "lectureStartTime": "10:15 am",
+            "lectureEndTime": "12:15 pm"
+        },
+        {
+            "lectureName": "DC Labs",
+            "lectureFacultyName": "Jayant Gadge",
+            "lectureBatch": "C13",
+            "lectureStartTime": "10:15 am",
+            "lectureEndTime": "12:15 pm"
+        },
+        {
+            "lectureName": "DC",
+            "lectureFacultyName": "Anil Chhangani",
+            "lectureBatch": "All",
+            "lectureStartTime": "1:00 pm",
+            "lectureEndTime": "2:00 pm"
+        },
+        {
+            "lectureName": "ADS",
+            "lectureFacultyName": "Vijaya Padmadas",
+            "lectureBatch": "All",
+            "lectureStartTime": "2:00 pm",
+            "lectureEndTime": "3:00 pm"
+        },
+        {
+            "lectureName": "PM/FM",
+            "lectureFacultyName": "Aejaz Khan",
+            "lectureBatch": "All",
+            "lectureStartTime": "3:00 pm",
+            "lectureEndTime": "4:30 pm"
+        }
+    ],
+    "Tuesday": [
+        {
+            "lectureName": "DC",
+            "lectureFacultyName": "Jayant Gadge",
+            "lectureBatch": "All",
+            "lectureStartTime": "11:15 am",
+            "lectureEndTime": "12:15 pm"
+        },
+        {
+            "lectureName": "SMA",
+            "lectureFacultyName": "Anagha Durugkar",
+            "lectureBatch": "All",
+            "lectureStartTime": "1:00 pm",
+            "lectureEndTime": "2:00 pm"
+        },
+        {
+            "lectureName": "DC",
+            "lectureFacultyName": "Anil Chhangani",
+            "lectureBatch": "All",
+            "lectureStartTime": "2:00 pm",
+            "lectureEndTime": "3:00 pm"
+        },
+        {
+            "lectureName": "DC Labs",
+            "lectureFacultyName": "Anil Chhangani",
+            "lectureBatch": "C11",
+            "lectureStartTime": "3:00 pm",
+            "lectureEndTime": "5:00 pm"
+        },
+        {
+            "lectureName": "SMA Labs",
+            "lectureFacultyName": "Anagha Durugkar",
+            "lectureBatch": "C12",
+            "lectureStartTime": "3:00 pm",
+            "lectureEndTime": "5:00 pm"
+        },
+        {
+            "lectureName": "ADS Labs",
+            "lectureFacultyName": "Archana Patankar",
+            "lectureBatch": "C13",
+            "lectureStartTime": "3:00 pm",
+            "lectureEndTime": "5:00 pm"
+        }
+    ],
+    "Wednesday": [
+        {
+            "lectureName": "SMA",
+            "lectureFacultyName": "Anagha Durugkar",
+            "lectureBatch": "All",
+            "lectureStartTime": "10:15 am",
+            "lectureEndTime": "11:15 pm"
+        },
+        {
+            "lectureName": "ADS",
+            "lectureFacultyName": "Vijaya Padmadas",
+            "lectureBatch": "All",
+            "lectureStartTime": "11:15 am",
+            "lectureEndTime": "12:15 pm"
+        },
+        {
+            "lectureName": "ADS Labs",
+            "lectureFacultyName": "Archana Patankar",
+            "lectureBatch": "C11",
+            "lectureStartTime": "1:00 pm",
+            "lectureEndTime": "3:00 pm"
+        },
+        {
+            "lectureName": "DC Labs",
+            "lectureFacultyName": "Jayant Gadge",
+            "lectureBatch": "C12",
+            "lectureStartTime": "1:00 pm",
+            "lectureEndTime": "3:00 pm"
+        },
+        {
+            "lectureName": "SMA Labs",
+            "lectureFacultyName": "Anagha Durugkar",
+            "lectureBatch": "C13",
+            "lectureStartTime": "1:00 pm",
+            "lectureEndTime": "3:00 pm"
+        }
+    ],
+    "Thursday": [
+        {
+            "lectureName": "PR",
+            "lectureFacultyName": "",
+            "lectureBatch": "C11",
+            "lectureStartTime": "10:15 am",
+            "lectureEndTime": "5:00 pm"
+        },
+        {
+            "lectureName": "PR",
+            "lectureFacultyName": "",
+            "lectureBatch": "C12",
+            "lectureStartTime": "10:15 am",
+            "lectureEndTime": "5:00 pm"
+        },
+        {
+            "lectureName": "PR",
+            "lectureFacultyName": "",
+            "lectureBatch": "C13",
+            "lectureStartTime": "10:15 am",
+            "lectureEndTime": "5:00 pm"
+        }
+    ],
+    "Friday": [
+        {
+            "lectureName": "ADS",
+            "lectureFacultyName": "Vijaya Padmadas",
+            "lectureBatch": "All",
+            "lectureStartTime": "1:00 pm",
+            "lectureEndTime": "2:00 pm"
+        },
+        {
+            "lectureName": "SMA",
+            "lectureFacultyName": "Anagha Durugkar",
+            "lectureBatch": "All",
+            "lectureStartTime": "2:00 pm",
+            "lectureEndTime": "3:00 pm"
+        },
+        {
+            "lectureName": "PM/FM",
+            "lectureFacultyName": "Aejaz Khan",
+            "lectureBatch": "All",
+            "lectureStartTime": "3:00 pm",
+            "lectureEndTime": "4:30 pm"
+        }
+    ],
+    "Saturday": [
+        {
+            "lectureName": "PR",
+            "lectureFacultyName": "",
+            "lectureBatch": "C11",
+            "lectureStartTime": "10:15 am",
+            "lectureEndTime": "5:00 pm"
+        },
+        {
+            "lectureName": "PR",
+            "lectureFacultyName": "",
+            "lectureBatch": "C12",
+            "lectureStartTime": "10:15 am",
+            "lectureEndTime": "5:00 pm"
+        },
+        {
+            "lectureName": "PR",
+            "lectureFacultyName": "",
+            "lectureBatch": "C13",
+            "lectureStartTime": "10:15 am",
+            "lectureEndTime": "5:00 pm"
+        }
+    ]
+}
