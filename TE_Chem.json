@@ -1,0 +1,252 @@
+{
+    "Monday": [
+     {
+         "lectureName": "PEE",
+         "lectureFacultyName": "Prasad Parulekar",
+         "lectureBatch": "All",
+         "lectureStartTime": "10.15am",
+         "lectureEndTime": "11.15am"
+      },
+       {
+          "lectureName": "CRE-II",
+          "lectureFacultyName": "Nita Mehta", 
+          "lectureBatch": "All",
+          "lectureStartTime": "11:15 am",
+          "lectureEndTime": "12:15pm"
+       },
+       {
+          "lectureName": "CRE-II Lab",
+          "lectureFacultyName": "Nita Mehta",
+          "lectureBatch": "K2",
+          "lectureStartTime": "1.00pm",
+          "lectureEndTime": "4:00 pm"
+       },
+       {
+         "lectureName": "PCT Lab",
+         "lectureFacultyName": "Ramesh Bhande",
+         "lectureBatch": "K3",
+         "lectureStartTime": "1.00pm",
+         "lectureEndTime": "4:00 pm"
+       },
+       {
+          "lectureName": "PEE Lab",
+          "lectureFacultyName": "Prasad Parulekar",
+          "lectureBatch": "K1",
+          "lectureStartTime": "1:00 pm",
+          "lectureEndTime": "2:00 pm"
+       },
+       {
+         "lectureName": "PDE Lab",
+         "lectureFacultyName": "Trupti Dharmarao",
+         "lectureBatch": "K1",
+         "lectureStartTime": "2:00 pm",
+         "lectureEndTime": "5:00 pm"
+       }
+    ],
+    "Tuesday": [
+       {
+          "lectureName": "MTO-II",
+          "lectureFacultyName": "Bharti Deshmukh",
+          "lectureBatch": "All",
+          "lectureStartTime": "10:15 am",
+          "lectureEndTime": "11.15 am"
+       },
+       {
+          "lectureName": "CRE-II",
+          "lectureFacultyName": "Nita Mehta",
+          "lectureBatch": "All",
+          "lectureStartTime": "11.15am",
+          "lectureEndTime": "12:15 pm"
+       },
+       {
+          "lectureName": "MTO-II Lab",
+          "lectureFacultyName": "R.K. Pathak",
+          "lectureBatch": "K2",
+          "lectureStartTime": "1.00pm",
+          "lectureEndTime": "4:00 pm"
+       },
+       { 
+         "lectureName": "CRE-II Lab",
+         "lectureFacultyName": "E.Joseph",
+         "lectureBatch": "K3",
+         "lectureStartTime": "1.00pm",
+         "lectureEndTime": "4:00 pm"
+       },
+       {
+         "lectureName": "PCT Lab",
+         "lectureFacultyName": "Ramesh Bhande",
+         "lectureBatch": "K1",
+         "lectureStartTime": "1.00pm",
+         "lectureEndTime": "4:00 pm"
+       }
+    ],
+    "Wednesday": [
+        {
+            "lectureName": "MTO-II Lab",
+            "lectureFacultyName": "SG",
+            "lectureBatch": "K3",
+            "lectureStartTime": "9.00am",
+            "lectureEndTime": "12.15pm"
+         },
+         { 
+            "lectureName": "CRE-II Lab",
+            "lectureFacultyName": "E.Joseph",
+            "lectureBatch": "K1",
+            "lectureStartTime": "9.00am",
+            "lectureEndTime": "12.15 pm"
+         },
+         {
+           "lectureName": "PCT Lab",
+           "lectureFacultyName": "Nitin Pereira",
+           "lectureBatch": "K2",
+           "lectureStartTime": "9.00am",
+           "lectureEndTime": "12.15pm"
+         },
+         {
+            "lectureName": "PEE",
+            "lectureFacultyName": "Prasad Parulekar",
+            "lectureBatch": "All",
+            "lectureStartTime": "1.00pm",
+            "lectureEndTime": "2:00 pm"
+         },
+         { 
+           "lectureName": "PE",
+           "lectureFacultyName": "Trupti Dharmarao",
+           "lectureBatch": "All",
+           "lectureStartTime": "2.00pm",
+           "lectureEndTime": "3:00 pm"
+         },
+         { 
+           "lectureName": "IOM",
+           "lectureFacultyName": "Nitin Pereira",
+           "lectureBatch": "All",
+           "lectureStartTime": "2.00pm",
+           "lectureEndTime": "3:00 pm"
+         },
+         {
+           "lectureName": "PCT",
+           "lectureFacultyName": "Ramesh Bhande",
+           "lectureBatch": "All",
+           "lectureStartTime": "3.00pm",
+           "lectureEndTime": "4:00 pm"
+         }
+    ],
+    "Thursday": [
+        {
+            "lectureName": "PEE",
+            "lectureFacultyName": "Prasad Parulekar",
+            "lectureBatch": "All",
+            "lectureStartTime": "10.15am",
+            "lectureEndTime": "11:15 am"
+         },
+       { 
+          "lectureName": "CRE-II",
+          "lectureFacultyName": "Nita Mehta",
+          "lectureBatch": "All",
+          "lectureStartTime": "11:15am",
+          "lectureEndTime": "12.15 pm"
+       },
+       {
+         "lectureName": "PCT",
+         "lectureFacultyName": "Ramesh Bhande",
+         "lectureBatch": "All",
+         "lectureStartTime": "1:00pm",
+         "lectureEndTime": "2:00 pm"
+       },
+       {
+         "lectureName": "MTO-II",
+         "lectureFacultyName": "Bharti Deshmukh",
+         "lectureBatch": "All",
+         "lectureStartTime": "2:00pm",
+         "lectureEndTime": "3:00 pm"
+       },
+       { 
+           "lectureName": "PE",
+           "lectureFacultyName": "Trupti Dharmarao",
+           "lectureBatch": "All",
+           "lectureStartTime": "3:00pm",
+           "lectureEndTime": "4:00 pm"
+         },
+         { 
+           "lectureName": "IOM",
+           "lectureFacultyName": "Nitin Pereira",
+           "lectureBatch": "All",
+           "lectureStartTime": "3.00pm",
+           "lectureEndTime": "4:00 pm"
+         },
+         { 
+            "lectureName": "Mini Project",
+            "lectureFacultyName": " ",
+            "lectureBatch": "All",
+            "lectureStartTime": "4.00pm",
+            "lectureEndTime": "5:00 pm"
+          },
+    ],
+    "Friday": [
+        {
+            "lectureName": "MTO-II Lab",
+            "lectureFacultyName": "SG",
+            "lectureBatch": "K1",
+            "lectureStartTime": "9.00am",
+            "lectureEndTime": "12.15pm"
+        },
+       {
+          "lectureName": "PEE Lab",
+          "lectureFacultyName": "Prasad Parulekar",
+          "lectureBatch": "K2",
+          "lectureStartTime": "11:15 am",
+          "lectureEndTime": "12:15pm"
+       },
+       {
+          "lectureName": "PEE Lab",
+          "lectureFacultyName": "Nitin Pereira",
+          "lectureBatch": "K3",
+          "lectureStartTime": "11:15 am",
+          "lectureEndTime": "12:15pm"
+       },
+       {
+          "lectureName": "MTO-II",
+          "lectureFacultyName": "R.K. Pathak",
+          "lectureBatch": "All",
+          "lectureStartTime": "1.00pm",
+          "lectureEndTime": "2:00 pm"
+       },
+       {
+          "lectureName": "PCT",
+          "lectureFacultyName": "Ramesh Bhande",
+          "lectureBatch": "All",
+          "lectureStartTime": "2.00pm",
+          "lectureEndTime": "3:00 pm"
+       },
+       { 
+           "lectureName": "PE",
+           "lectureFacultyName": "Trupti Dharmarao",
+           "lectureBatch": "All",
+           "lectureStartTime": "3:00pm",
+           "lectureEndTime": "4:00 pm"
+        },
+        { 
+           "lectureName": "IOM",
+           "lectureFacultyName": "Nitin Pereira",
+           "lectureBatch": "All",
+           "lectureStartTime": "3.00pm",
+           "lectureEndTime": "4:00 pm"
+        }
+    ],
+    "Saturday": [
+        {
+           "lectureName": "PDELab",
+           "lectureFacultyName": "Trupti Dharmarao",
+           "lectureBatch": "K2",
+           "lectureStartTime": "9:00am",
+           "lectureEndTime": "12.15pm"
+        },
+        { 
+           "lectureName": "PDE Lab",
+           "lectureFacultyName": "Trupti Dharmarao",
+           "lectureBatch": "K3",
+           "lectureStartTime": "1.00pm",
+           "lectureEndTime": "4:00 pm"
+        }
+     ]
+ }
