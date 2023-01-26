@@ -42,7 +42,7 @@
           "lectureFacultyName": "Manoj S. Kavedia",
           "lectureBatch": "All",
           "lectureStartTime": "9:00 am",
-          "lectureEndTime": "10:15 am"
+          "lectureEndTime": "10:00 am"
        },
        {
           "lectureName": "DBMS",
@@ -162,7 +162,7 @@
        },
          { 
             "lectureName": "Mini Project",
-            "lectureFacultyName": " Uttara Bhatt / SB ", //full name not known
+            "lectureFacultyName": " Uttara Bhatt" and " SB "
             "lectureBatch": "All",
             "lectureStartTime": "1.00pm",
             "lectureEndTime": "3:00 pm"
