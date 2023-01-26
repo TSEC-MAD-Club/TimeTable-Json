@@ -1,0 +1,198 @@
+{
+    "Monday": [
+        {
+            "lectureName": "SMA",
+            "lectureFacultyName": "Sakshi Surve",
+            "lectureBatch": "All",
+            "lectureStartTime": "11:15 am",
+            "lectureEndTime": "12:15 pm"
+        },
+        {
+            "lectureName": "ADS",
+            "lectureFacultyName": "Jayant Gadge",
+            "lectureBatch": "All",
+            "lectureStartTime": "1:00 pm",
+            "lectureEndTime": "2:00 pm"
+        },
+        {
+            "lectureName": "DC",
+            "lectureFacultyName": "Urvi Kore",
+            "lectureBatch": "All",
+            "lectureStartTime": "2:00 pm",
+            "lectureEndTime": "3:00 pm"
+        },
+        {
+            "lectureName": "PM/FM",
+            "lectureFacultyName": "Aejaz Khan",
+            "lectureBatch": "All",
+            "lectureStartTime": "3:00 pm",
+            "lectureEndTime": "4:30 pm"
+        }
+    ],
+    "Tuesday": [
+        {
+            "lectureName": "PR",
+            "lectureFacultyName": "",
+            "lectureBatch": "C21",
+            "lectureStartTime": "10:15 am",
+            "lectureEndTime": "5:00 pm"
+        },
+        {
+            "lectureName": "PR",
+            "lectureFacultyName": "",
+            "lectureBatch": "C22",
+            "lectureStartTime": "10:15 am",
+            "lectureEndTime": "5:00 pm"
+        },
+        {
+            "lectureName": "PR",
+            "lectureFacultyName": "",
+            "lectureBatch": "C23",
+            "lectureStartTime": "10:15 am",
+            "lectureEndTime": "5:00 pm"
+        }
+    ],
+    "Wednesday": [
+        {
+            "lectureName": "SMA",
+            "lectureFacultyName": "Sakshi Surve",
+            "lectureBatch": "C21",
+            "lectureStartTime": "10:15 am",
+            "lectureEndTime": "12:15 pm"
+        },
+        {
+            "lectureName": "ADS",
+            "lectureFacultyName": "Jayant Gadge",
+            "lectureBatch": "C22",
+            "lectureStartTime": "10:15 am",
+            "lectureEndTime": "12:15 pm"
+        },
+        {
+            "lectureName": "DC",
+            "lectureFacultyName": "Adil Shaikh",
+            "lectureBatch": "C23",
+            "lectureStartTime": "10:15 am",
+            "lectureEndTime": "12:15 pm"
+        },
+        {
+            "lectureName": "SMA",
+            "lectureFacultyName": "Sakshi Surve",
+            "lectureBatch": "All",
+            "lectureStartTime": "1:00 pm",
+            "lectureEndTime": "2:00 pm"
+        },
+        {
+            "lectureName": "DC",
+            "lectureFacultyName": "Urvi Kore",
+            "lectureBatch": "All",
+            "lectureStartTime": "2:00 pm",
+            "lectureEndTime": "3:00 pm"
+        }
+    ],
+    "Thursday": [
+        {
+            "lectureName": "ADS",
+            "lectureFacultyName": "Jayant Gadge",
+            "lectureBatch": "All",
+            "lectureStartTime": "11:15 am",
+            "lectureEndTime": "12:15 pm"
+        },
+        {
+            "lectureName": "DC",
+            "lectureFacultyName": "Adil Shaikh",
+            "lectureBatch": "All",
+            "lectureStartTime": "1:00 pm",
+            "lectureEndTime": "2:00 pm"
+        },
+        {
+            "lectureName": "SMA",
+            "lectureFacultyName": "Sakshi Surve",
+            "lectureBatch": "All",
+            "lectureStartTime": "2:00 pm",
+            "lectureEndTime": "3:00 pm"
+        },
+        {
+            "lectureName": "DC Labs",
+            "lectureFacultyName": "Jayant Gadge",
+            "lectureBatch": "C21",
+            "lectureStartTime": "3:00 pm",
+            "lectureEndTime": "5:00 pm"
+        },
+        {
+            "lectureName": "SMA Labs",
+            "lectureFacultyName": "Sakshi Surve",
+            "lectureBatch": "C22",
+            "lectureStartTime": "3:00 pm",
+            "lectureEndTime": "5:00 pm"
+        },
+        {
+            "lectureName": "ADS Labs",
+            "lectureFacultyName": "Seema Kolkur",
+            "lectureBatch": "C23",
+            "lectureStartTime": "3:00 pm",
+            "lectureEndTime": "5:00 pm"
+        }
+    ],
+    "Friday": [
+        {
+            "lectureName": "ADS",
+            "lectureFacultyName": "Jayant Gadge",
+            "lectureBatch": "All",
+            "lectureStartTime": "11:15 am",
+            "lectureEndTime": "12:15 pm"
+        },
+        {
+            "lectureName": "ADS Labs",
+            "lectureFacultyName": "Jayant Gadge",
+            "lectureBatch": "C21",
+            "lectureStartTime": "1:00 pm",
+            "lectureEndTime": "3:00 pm"
+        },
+        {
+            "lectureName": "DC Labs",
+            "lectureFacultyName": "Anil Chhangani",
+            "lectureBatch": "C22",
+            "lectureStartTime": "1:00 pm",
+            "lectureEndTime": "3:00 pm"
+        },
+        {
+            "lectureName": "SMA Labs",
+            "lectureFacultyName": "Ujjwala Bharambe",
+            "lectureBatch": "C23",
+            "lectureStartTime": "1:00 pm",
+            "lectureEndTime": "3:00 pm"
+        },
+        {
+            "lectureName": "PM/FM",
+            "lectureFacultyName": "Aejaz Khan",
+            "lectureBatch": "All",
+            "lectureStartTime": "3:00 pm",
+            "lectureEndTime": "4:30 pm"
+        }
+    
+    ],
+    "Saturday": [
+        {
+            "lectureName": "PR",
+            "lectureFacultyName": "",
+            "lectureBatch": "C21",
+            "lectureStartTime": "10:15 am",
+            "lectureEndTime": "5:00 pm"
+        },
+        {
+            "lectureName": "PR",
+            "lectureFacultyName": "",
+            "lectureBatch": "C22",
+            "lectureStartTime": "10:15 am",
+            "lectureEndTime": "5:00 pm"
+        },
+        {
+            "lectureName": "PR",
+            "lectureFacultyName": "",
+            "lectureBatch": "C23",
+            "lectureStartTime": "10:15 am",
+            "lectureEndTime": "5:00 pm"
+        }
+        
+    ]
+}

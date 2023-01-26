@@ -1,0 +1,194 @@
+{
+   "Monday": [
+    {
+        "lectureName": "MSO Lab",
+        "lectureFacultyName": "Ravindra Joshi",
+        "lectureBatch": "K1",
+        "lectureStartTime": "9.00 am",
+        "lectureEndTime": "10:00am"
+     },
+      {
+         "lectureName": "MSO Lab",
+         "lectureFacultyName": "Ravindra Joshi",
+         "lectureBatch": "K1",
+         "lectureStartTime": "10:15 am",
+         "lectureEndTime": "12:15pm"
+      },
+      {
+         "lectureName": "BT",
+         "lectureFacultyName": "Praseeda Nambisan",
+         "lectureBatch": "All",
+         "lectureStartTime": "1.00pm",
+         "lectureEndTime": "2:00 pm"
+      },
+      {
+        "lectureName": "FCEE",
+        "lectureFacultyName": "Nitin Pereira",
+        "lectureBatch": "All",
+        "lectureStartTime": "1.00pm",
+        "lectureEndTime": "2:00 pm"
+      },
+      {
+         "lectureName": "AST",
+         "lectureFacultyName": "E. Joseph",
+         "lectureBatch": "All",
+         "lectureStartTime": "2:00 pm",
+         "lectureEndTime": "3:00 pm"
+      },
+      {
+        "lectureName": "ESD",
+        "lectureFacultyName": "Prasad Parulekar",
+        "lectureBatch": "All",
+        "lectureStartTime": "2:00 pm",
+        "lectureEndTime": "3:00 pm"
+      },
+      { 
+         "lectureName": "Institute Elective",
+         "lectureFacultyName": " ",
+         "lectureBatch": "All",
+         "lectureStartTime": "3.00pm",
+         "lectureEndTime": "5.00 pm"
+      }
+   ],
+   "Tuesday": [
+      {
+         "lectureName": "MSO",
+         "lectureFacultyName": "Ravindra Joshi",
+         "lectureBatch": "All",
+         "lectureStartTime": "10:15 am",
+         "lectureEndTime": "12.15 pm"
+      },
+      {
+         "lectureName": "BT",
+         "lectureFacultyName": "Praseeda Nambisan",
+         "lectureBatch": "All",
+         "lectureStartTime": "1.00pm",
+         "lectureEndTime": "2:00 pm"
+      },
+      {
+         "lectureName": "FCEE",
+         "lectureFacultyName": "Nitin Pereira",
+         "lectureBatch": "All",
+         "lectureStartTime": "1.00pm",
+         "lectureEndTime": "2:00 pm"
+      },
+      {
+         "lectureName": "MSO Lab",
+         "lectureFacultyName": "Ravindra Joshi",
+         "lectureBatch": "K2",
+         "lectureStartTime": "2.00pm",
+         "lectureEndTime": "5.00pm"
+      }
+   ],
+   "Wednesday": [
+      {
+         "lectureName": "SACE Lab",
+         "lectureFacultyName": "Sangita Gaikwad",
+         "lectureBatch": "K3",
+         "lectureStartTime": "9:00am",
+         "lectureEndTime": "10:00 am"
+      },
+      { 
+         "lectureName": "SACE Lab",
+         "lectureFacultyName": "Sangita Gaikwad",
+         "lectureBatch": "K3",
+         "lectureStartTime": "10:15am",
+         "lectureEndTime": "12.15 pm"
+      },
+      { 
+         "lectureName": "SACE Lab",
+         "lectureFacultyName": "Nita Mehta",
+         "lectureBatch": "K1",
+         "lectureStartTime": "1.00pm",
+         "lectureEndTime": "4.00pm"
+      }
+   ],
+   "Thursday": [
+      { 
+         "lectureName": "SACE Lab",
+         "lectureFacultyName": "Nitin Pereira",
+         "lectureBatch": "K2",
+         "lectureStartTime": "9.00am",
+         "lectureEndTime": "10.00am"
+      },
+      { 
+         "lectureName": "SACE Lab",
+         "lectureFacultyName": "Nitin Pereira",
+         "lectureBatch": "K2",
+         "lectureStartTime": "10:15am",
+         "lectureEndTime": "12.15 pm"
+      },
+      {
+         "lectureName": "AST",
+         "lectureFacultyName": "E. Joseph",
+         "lectureBatch": "All",
+         "lectureStartTime": "1:00 pm",
+         "lectureEndTime": "2:00 pm"
+      },
+      {
+         "lectureName": "ESD",
+         "lectureFacultyName": "Prasad Parulekar",
+         "lectureBatch": "All",
+         "lectureStartTime": "1:00 pm",
+         "lectureEndTime": "2:00 pm"
+      },
+      {
+         "lectureName": "AST",
+         "lectureFacultyName": "E. Joseph",
+         "lectureBatch": "All",
+         "lectureStartTime": "2:00 pm",
+         "lectureEndTime": "3:00 pm"
+      },
+      {
+         "lectureName": "ESD",
+         "lectureFacultyName": "Prasad Parulekar",
+         "lectureBatch": "All",
+         "lectureStartTime": "2:00 pm",
+         "lectureEndTime": "3:00 pm"
+      }
+   ],
+   "Friday": [
+      {
+         "lectureName": "MSO Lab",
+         "lectureFacultyName": "Ravindra Joshi",
+         "lectureBatch": "K3",
+         "lectureStartTime": "9.00 am",
+         "lectureEndTime": "10:00am"
+      },
+      {
+         "lectureName": "MSO Lab",
+         "lectureFacultyName": "Ravindra Joshi",
+         "lectureBatch": "K3",
+         "lectureStartTime": "10:15 am",
+         "lectureEndTime": "12:15pm"
+      },
+      {
+         "lectureName": "BT",
+         "lectureFacultyName": "Praseeda Nambisan",
+         "lectureBatch": "All",
+         "lectureStartTime": "1.00pm",
+         "lectureEndTime": "2:00 pm"
+      },
+      {
+         "lectureName": "FCEE",
+         "lectureFacultyName": "Nitin Pereira",
+         "lectureBatch": "All",
+         "lectureStartTime": "1.00pm",
+         "lectureEndTime": "2:00 pm"
+      },
+      {
+         "lectureName": "MSO",
+         "lectureFacultyName": "Ravindra Joshi",
+         "lectureBatch": "All",
+         "lectureStartTime": "2.00pm",
+         "lectureEndTime": "3:00 pm"
+      },
+      { 
+         "lectureName": "Institute Elective",
+         "lectureFacultyName": " ",
+         "lectureBatch": "All",
+         "lectureStartTime": "3.00pm",
+         "lectureEndTime": "5.00 pm"
+      }
+   ]
+}

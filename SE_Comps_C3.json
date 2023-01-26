@@ -1,0 +1,299 @@
+{
+   "Monday": [
+      {
+         "lectureName": "OS",
+         "lectureFacultyName": "Tasneem Mirza",
+         "lectureBatch": "All",
+         "lectureStartTime": "10:15 am",
+         "lectureEndTime": "11:15 am"
+      },
+      {
+         "lectureName": "AOA",
+         "lectureFacultyName": "Urvi Kore",
+         "lectureBatch": "All",
+         "lectureStartTime": "11:15 am",
+         "lectureEndTime": "12:15 pm"
+      },
+      {
+         "lectureName": "DBMS",
+         "lectureFacultyName": "Juhi Janjua",
+         "lectureBatch": "All",
+         "lectureStartTime": "1:00 pm",
+         "lectureEndTime": "2:00 pm"
+      },
+      {
+         "lectureName": "MP",
+         "lectureFacultyName": "Ritesh Kini",
+         "lectureBatch": "All",
+         "lectureStartTime": "2:00 pm",
+         "lectureEndTime": "3:00 pm"
+      },
+      {
+         "lectureName": "DBMS labs",
+         "lectureFacultyName": "Seema Kolkur",
+         "lectureBatch": "C31",
+         "lectureStartTime": "3:00 pm",
+         "lectureEndTime": "5:00 pm"
+      },
+      {
+         "lectureName": "PY labs",
+         "lectureFacultyName": "Sakshi Surve",
+         "lectureBatch": "C32",
+         "lectureStartTime": "3:00 pm",
+         "lectureEndTime": "5:00 pm"
+      },
+      {
+         "lectureName": "MP labs",
+         "lectureFacultyName": "Gauri Shukla",
+         "lectureBatch": "C33",
+         "lectureStartTime": "3:00 pm",
+         "lectureEndTime": "5:00 pm"
+      },
+      {
+         "lectureName": "AOA labs",
+         "lectureFacultyName": "Urvi Kore",
+         "lectureBatch": "C34",
+         "lectureStartTime": "3:00 pm",
+         "lectureEndTime": "5:00 pm"
+      }
+   ],
+   "Tuesday": [
+      {
+         "lectureName": "MP",
+         "lectureFacultyName": "Ritesh Kini",
+         "lectureBatch": "All",
+         "lectureStartTime": "9:15 am",
+         "lectureEndTime": "10:15 am"
+      },
+      {
+         "lectureName": "PY labs",
+         "lectureFacultyName": "Sakshi Surve",
+         "lectureBatch": "C31",
+         "lectureStartTime": "10:15 am",
+         "lectureEndTime": "12:15 pm"
+      },
+      {
+         "lectureName": "MP labs",
+         "lectureFacultyName": "Ritesh Kini",
+         "lectureBatch": "C32",
+         "lectureStartTime": "10:15 am",
+         "lectureEndTime": "12:15 pm"
+      },
+      {
+         "lectureName": "AOA labs",
+         "lectureFacultyName": "Adil Shaikh",
+         "lectureBatch": "C33",
+         "lectureStartTime": "10:15 am",
+         "lectureEndTime": "12:15 pm"
+      },
+      {
+         "lectureName": "PY labs",
+         "lectureFacultyName": "Juhi Janjua",
+         "lectureBatch": "C34",
+         "lectureStartTime": "10:15 am",
+         "lectureEndTime": "12:15 pm"
+      },
+      {
+         "lectureName": "PY",
+         "lectureFacultyName": "Khalid Ansari",
+         "lectureBatch": "All",
+         "lectureStartTime": "1:00 pm",
+         "lectureEndTime": "2:00 pm"
+      },
+      {
+         "lectureName": "AOA",
+         "lectureFacultyName": "Urvi Kore",
+         "lectureBatch": "All",
+         "lectureStartTime": "2:00 pm",
+         "lectureEndTime": "3:00 pm"
+      }
+   ],
+   "Wednesday": [
+      {
+         "lectureName": "EM",
+         "lectureFacultyName": "Gaurav Mittal",
+         "lectureBatch": "All",
+         "lectureStartTime": "9:15 am",
+         "lectureEndTime": "11:15 am"
+      },
+      {
+         "lectureName": "OS",
+         "lectureFacultyName": "Tasneem Mirza",
+         "lectureBatch": "All",
+         "lectureStartTime": "11:15 am",
+         "lectureEndTime": "12:15 pm"
+      },
+      {
+         "lectureName": "MP labs",
+         "lectureFacultyName": "Ritesh Kini",
+         "lectureBatch": "C31",
+         "lectureStartTime": "1:00 pm",
+         "lectureEndTime": "3:00 pm"
+      },
+      {
+         "lectureName": "OS labs",
+         "lectureFacultyName": "Parul Jain",
+         "lectureBatch": "C32",
+         "lectureStartTime": "1:00 pm",
+         "lectureEndTime": "3:00 pm"
+      },
+      {
+         "lectureName": "DBMS labs",
+         "lectureFacultyName": "Vijaya Padmadas",
+         "lectureBatch": "C33",
+         "lectureStartTime": "1:00 pm",
+         "lectureEndTime": "3:00 pm"
+      },
+      {
+         "lectureName": "OS labs",
+         "lectureFacultyName": "Tasneem Mirza",
+         "lectureBatch": "C34",
+         "lectureStartTime": "1:00 pm",
+         "lectureEndTime": "3:00 pm"
+      },
+      {
+         "lectureName": "MPR",
+         "lectureFacultyName": "Nabanita Mandal",
+         "lectureBatch": "C31",
+         "lectureStartTime": "3:00 pm",
+         "lectureEndTime": "4:00 pm"
+      },
+      {
+         "lectureName": "MPR",
+         "lectureFacultyName": "Shilpa Ingoley",
+         "lectureBatch": "C33",
+         "lectureStartTime": "3:00 pm",
+         "lectureEndTime": "4:00 pm"
+      },
+      {
+         "lectureName": "MPR",
+         "lectureFacultyName": "Sonali Jadhav",
+         "lectureBatch": "C34",
+         "lectureStartTime": "3:00 pm",
+         "lectureEndTime": "4:00 pm"
+      }
+   ],
+   "Thursday": [
+      {
+         "lectureName": "MP",
+         "lectureFacultyName": "Ritesh Kini",
+         "lectureBatch": "All",
+         "lectureStartTime": "9:15 am",
+         "lectureEndTime": "10:15 am"
+      },
+      {
+         "lectureName": "AOA",
+         "lectureFacultyName": "Urvi Kore",
+         "lectureBatch": "All",
+         "lectureStartTime": "10:15 am",
+         "lectureEndTime": "11:15 am"
+      },
+      {
+         "lectureName": "PY",
+         "lectureFacultyName": "Khalid Ansari",
+         "lectureBatch": "All",
+         "lectureStartTime": "11:15 am",
+         "lectureEndTime": "12:15 pm"
+      },
+      {
+         "lectureName": "EM",
+         "lectureFacultyName": "Gaurav Mittal",
+         "lectureBatch": "All",
+         "lectureStartTime": "1:00 pm",
+         "lectureEndTime": "2:00 pm"
+      },
+      {
+         "lectureName": "DBMS",
+         "lectureFacultyName": "Juhi Janjua",
+         "lectureBatch": "All",
+         "lectureStartTime": "2:00 pm",
+         "lectureEndTime": "3:00 pm"
+      },
+      {
+         "lectureName": "OS labs",
+         "lectureFacultyName": "Rupali Sarode",
+         "lectureBatch": "C31",
+         "lectureStartTime": "3:00 pm",
+         "lectureEndTime": "5:00 pm"
+      },
+      {
+         "lectureName": "AOA labs",
+         "lectureFacultyName": "Adil Shaikh",
+         "lectureBatch": "C32",
+         "lectureStartTime": "3:00 pm",
+         "lectureEndTime": "5:00 pm"
+      },
+      {
+         "lectureName": "Python labs",
+         "lectureFacultyName": "Khalid Ansari",
+         "lectureBatch": "C33",
+         "lectureStartTime": "3:00 pm",
+         "lectureEndTime": "5:00 pm"
+      },
+      {
+         "lectureName": "DBMS labs",
+         "lectureFacultyName": "Juhi Janjua",
+         "lectureBatch": "C34",
+         "lectureStartTime": "3:00 pm",
+         "lectureEndTime": "5:00 pm"
+      }
+   ],
+   "Friday": [
+      {
+         "lectureName": "OS",
+         "lectureFacultyName": "Tasneem Mirza",
+         "lectureBatch": "All",
+         "lectureStartTime": "9:15 am",
+         "lectureEndTime": "10:15 am"
+      },
+      {
+         "lectureName": "AOA labs",
+         "lectureFacultyName": "Urvi Kore",
+         "lectureBatch": "C31",
+         "lectureStartTime": "10:15 am",
+         "lectureEndTime": "12:15 pm"
+      },
+      {
+         "lectureName": "DBMS labs",
+         "lectureFacultyName": "Anagha Durugkar",
+         "lectureBatch": "C32",
+         "lectureStartTime": "10:15 am",
+         "lectureEndTime": "12:15 pm"
+      },
+      {
+         "lectureName": "OS labs",
+         "lectureFacultyName": "Tasneem Mirza",
+         "lectureBatch": "C33",
+         "lectureStartTime": "10:15 am",
+         "lectureEndTime": "12:15 pm"
+      },
+      {
+         "lectureName": "MP labs",
+         "lectureFacultyName": "Gauri Shukla",
+         "lectureBatch": "C34",
+         "lectureStartTime": "10:15 am",
+         "lectureEndTime": "12:15 pm"
+      },
+      {
+         "lectureName": "DBMS",
+         "lectureFacultyName": "Juhi Janjua",
+         "lectureBatch": "All",
+         "lectureStartTime": "1:00 pm",
+         "lectureEndTime": "2:00 pm"
+      },
+      {
+         "lectureName": "EM TUtorials",
+         "lectureFacultyName": "Gaurav Mittal",
+         "lectureBatch": "All",
+         "lectureStartTime": "2:00 pm",
+         "lectureEndTime": "3:00 pm"
+      },
+      {
+         "lectureName": "MPR",
+         "lectureFacultyName": "Darakhshan Khan",
+         "lectureBatch": "C32",
+         "lectureStartTime": "3:00 pm",
+         "lectureEndTime": "4:00 pm"
+      }
+   ]
+}
