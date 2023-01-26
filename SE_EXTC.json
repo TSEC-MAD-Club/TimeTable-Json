@@ -1,0 +1,236 @@
+{
+    "Monday": [
+        {
+            "lectureName": "SKILL",
+            "lectureFacultyName": "MSK",
+            "lectureBatch": "All",
+            "lectureStartTime": "9:00 am",
+            "lectureEndTime": "10:00 am"
+        },
+        {
+            "lectureName": "PCE",
+            "lectureFacultyName": "Shristi Bhatia",
+            "lectureBatch": "All",
+            "lectureStartTime": "10:15 am",
+            "lectureEndTime": "11:15 am"
+        },
+        {
+            "lectureName": "SS",
+            "lectureFacultyName": "Uttara Bharat",
+            "lectureBatch": "All",
+            "lectureStartTime": "11:15 am",
+            "lectureEndTime": "12:15 pm"
+        },
+        {
+            "lectureName": "SKILL",
+            "lectureFacultyName": "MSK",
+            "lectureBatch": "A1",
+            "lectureStartTime": "1:00 pm",
+            "lectureEndTime": "3:00 pm"
+        },
+        {
+            "lectureName": "PCE",
+            "lectureFacultyName": "Neeru Pathak",
+            "lectureBatch": "A2",
+            "lectureStartTime": "1:00 pm",
+            "lectureEndTime": "3:00 pm"
+        },
+        {
+            "lectureName": "µC",
+            "lectureFacultyName": "Uttara Bhatt",
+            "lectureBatch": "A3",
+            "lectureStartTime": "1:00 pm",
+            "lectureEndTime": "3:00 pm"
+        },
+        {
+            "lectureName": "Mini Project",
+            "lectureFacultyName": "Neeru Pathak",
+            "lectureBatch": "A2/A3",
+            "lectureStartTime": "3:00 pm",
+            "lectureEndTime": "5:00 pm"
+        }
+    ],
+    "Tuesday": [
+        {
+            "lectureName": "LIC",
+            "lectureFacultyName": "Neeru Pathak",
+            "lectureBatch": "All",
+            "lectureStartTime": "9:00 am",
+            "lectureEndTime": "11:15 am"
+        },
+        {
+            "lectureName": "SS",
+            "lectureFacultyName": "Uttara Bhatt",
+            "lectureBatch": "All",
+            "lectureStartTime": "11:15 am",
+            "lectureEndTime": "12:15 pm"
+        },
+        {
+            "lectureName": "SS Tutorials",
+            "lectureFacultyName": "Uttara Bhatt",
+            "lectureBatch": "A1/A2",
+            "lectureStartTime": "1:00 pm",
+            "lectureEndTime": "3:00 pm"
+        },
+        {
+            "lectureName": "LIC",
+            "lectureFacultyName": "Neeru Pathak",
+            "lectureBatch": "A3",
+            "lectureStartTime": "1:00 pm",
+            "lectureEndTime": "3:00 pm"
+        },
+        {
+            "lectureName": "Mini Project",
+            "lectureFacultyName": "Shristi Bhatia",
+            "lectureBatch": "A1/A2",
+            "lectureStartTime": "2:00 pm",
+            "lectureEndTime": "4:00 pm"
+        },
+        {
+            "lectureName": "SS Tutorials",
+            "lectureFacultyName": "Uttara Bhatt",
+            "lectureBatch": "A3",
+            "lectureStartTime": "2:00 pm",
+            "lectureEndTime": "4:00 pm"
+        }
+    ],
+    "Wednesday": [
+        {
+            "lectureName": "LIC",
+            "lectureFacultyName": "Neeru Pathak",
+            "lectureBatch": "All",
+            "lectureStartTime": "9:00 am",
+            "lectureEndTime": "10:00 am"
+        },
+        {
+            "lectureName": "PCE",
+            "lectureFacultyName": "Shristi Bhatt ",
+            "lectureBatch": "All",
+            "lectureStartTime": "10:15 am",
+            "lectureEndTime": "11:15 am"
+        },
+        {
+            "lectureName": "SS",
+            "lectureFacultyName": "Uttara Bhatt",
+            "lectureBatch": "All",
+            "lectureStartTime": "11:15 am",
+            "lectureEndTime": "12:15 pm"
+        },
+        {
+            "lectureName": "µC",
+            "lectureFacultyName": "Amit Hatekar",
+            "lectureBatch": "All",
+            "lectureStartTime": "1:00 pm",
+            "lectureEndTime": "2:00 pm"
+        },
+        {
+            "lectureName": "AM",
+            "lectureFacultyName": "Saket Kumar",
+            "lectureBatch": "All",
+            "lectureStartTime": "2:00 pm",
+            "lectureEndTime": "4:00 pm"
+        }
+    ],
+    "Thursday": [
+        {
+            "lectureName": "PCE",
+            "lectureFacultyName": "Shristi Bhatia",
+            "lectureBatch": "All",
+            "lectureStartTime": "9:00 am",
+            "lectureEndTime": "10:00 am"
+        },
+        {
+            "lectureName": "PCE",
+            "lectureFacultyName": "Shristi Bhatia",
+            "lectureBatch": "A1",
+            "lectureStartTime": "10:15 am",
+            "lectureEndTime": "12:15 pm"
+        },
+        {
+            "lectureName": "LIC",
+            "lectureFacultyName": "Neeru Pathak",
+            "lectureBatch": "A2",
+            "lectureStartTime": "10:15 am",
+            "lectureEndTime": "12:15 pm"
+        },
+        {
+            "lectureName": "SKILL",
+            "lectureFacultyName": "Maniroja Edinburgh",
+            "lectureBatch": "A3",
+            "lectureStartTime": "10:15 am",
+            "lectureEndTime": "12:15 pm"
+        },
+        {
+            "lectureName": "AM",
+            "lectureFacultyName": "Saket Kumar",
+            "lectureBatch": "All",
+            "lectureStartTime": "1:00 pm",
+            "lectureEndTime": "3:00 pm"
+        },
+        {
+            "lectureName": "Mini Project",
+            "lectureFacultyName": "",
+            "lectureBatch": "A1/A3",
+            "lectureStartTime": "3:00 pm",
+            "lectureEndTime": "5:00 pm"
+        },
+        {
+            "lectureName": "µC",
+            "lectureFacultyName": "Uttara Bhatt",
+            "lectureBatch": "A2",
+            "lectureStartTime": "3:00 pm",
+            "lectureEndTime": "5:00 pm"
+        }
+    ],
+    "Friday": [
+        {
+            "lectureName": "SKILL",
+            "lectureFacultyName": "Maniroja Edinburgh",
+            "lectureBatch": "ALL",
+            "lectureStartTime": "9:00 am",
+            "lectureEndTime": "10:00 am"
+        },
+        {
+            "lectureName": "LIC",
+            "lectureFacultyName": "Neeru Pathak",
+            "lectureBatch": "A1",
+            "lectureStartTime": "10:15 am",
+            "lectureEndTime": "12:15 pm"
+        },
+        {
+            "lectureName": "SKILL",
+            "lectureFacultyName": "Maniroja Edinburgh",
+            "lectureBatch": "A2",
+            "lectureStartTime": "10:15 am",
+            "lectureEndTime": "12:15 pm"
+        },
+        {
+            "lectureName": "PCE",
+            "lectureFacultyName": "Shristi Bhatia",
+            "lectureBatch": "A3",
+            "lectureStartTime": "10:15 am",
+            "lectureEndTime": "12:15 pm"
+        },
+        {
+            "lectureName": "µC",
+            "lectureFacultyName": "Uttara Bhatt",
+            "lectureBatch": "All",
+            "lectureStartTime": "1:00 pm",
+            "lectureEndTime": "3:00 pm"
+        },
+        {
+            "lectureName": "Mini Project",
+            "lectureFacultyName": "",
+            "lectureBatch": "A2",
+            "lectureStartTime": "3:00 pm",
+            "lectureEndTime": "5:00 pm"
+        },
+        {
+            "lectureName": "µC",
+            "lectureFacultyName": "Amit Hatekar",
+            "lectureBatch": "A1",
+            "lectureStartTime": "3:00 pm",
+            "lectureEndTime": "5:00 pm"
+        }
+    ]
+}
