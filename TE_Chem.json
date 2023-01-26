@@ -83,7 +83,7 @@
     "Wednesday": [
         {
             "lectureName": "MTO-II Lab",
-            "lectureFacultyName": " ", //no full name given
+            "lectureFacultyName": "SG",
             "lectureBatch": "K3",
             "lectureStartTime": "9.00am",
             "lectureEndTime": "12.15pm"
@@ -185,7 +185,7 @@
     "Friday": [
         {
             "lectureName": "MTO-II Lab",
-            "lectureFacultyName": " ", //no full name given
+            "lectureFacultyName": "SG",
             "lectureBatch": "K1",
             "lectureStartTime": "9.00am",
             "lectureEndTime": "12.15pm"
