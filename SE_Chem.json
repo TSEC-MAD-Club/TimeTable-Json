@@ -1,0 +1,175 @@
+{
+    "Monday": [
+        {
+            "lectureName": "CET II",
+            "lectureFacultyName": "Anita Kumari",
+            "lectureBatch": "All",
+            "lectureStartTime": "11:15 am",
+            "lectureEndTime": "12:15 pm"
+        },
+        {
+            "lectureName": "EM IV",
+            "lectureFacultyName": "Saket Kumar",
+            "lectureBatch": "All",
+            "lectureStartTime": "1:00 pm",
+            "lectureEndTime": "3:00 pm"
+        },
+        {
+            "lectureName": "SFMO",
+            "lectureFacultyName": "Sangita Gaikwad",
+            "lectureBatch": "All",
+            "lectureStartTime": "3:00 pm",
+            "lectureEndTime": "4:00 pm"
+        }
+    ],
+    "Tuesday": [
+        {
+            "lectureName": "I&EC Labs",
+            "lectureFacultyName": "Praseeda Nambisan",
+            "lectureBatch": "K1",
+            "lectureStartTime": "10:15 am",
+            "lectureEndTime": "12:15 pm"
+        },
+        {
+            "lectureName": "SFMO Labs",
+            "lectureFacultyName": "Anita Kumari",
+            "lectureBatch": "K2",
+            "lectureStartTime": "10:15 am",
+            "lectureEndTime": "12:15 pm"
+        },
+        {
+            "lectureName": "DAPE Labs",
+            "lectureFacultyName": "Prasad Parulekar",
+            "lectureBatch": "K3",
+            "lectureStartTime": "10:15 am",
+            "lectureEndTime": "12:15 pm"
+        },
+        {
+            "lectureName": "CET II",
+            "lectureFacultyName": "Anita Kumari",
+            "lectureBatch": "All",
+            "lectureStartTime": "1:00 pm",
+            "lectureEndTime": "2:00 pm"
+        },
+        {
+            "lectureName": "EM IV",
+            "lectureFacultyName": "Saket Kumar",
+            "lectureBatch": "All",
+            "lectureStartTime": "2:00 pm",
+            "lectureEndTime": "4:00 pm"
+        }
+    ],
+    "Wednesday": [
+        {
+            "lectureName": "I&EC",
+            "lectureFacultyName": "Praseeda Nambisan",
+            "lectureBatch": "All",
+            "lectureStartTime": "10:15 am",
+            "lectureEndTime": "12:15 pm"
+        },
+        {
+            "lectureName": "CET II",
+            "lectureFacultyName": "Anita Kumari",
+            "lectureBatch": "All",
+            "lectureStartTime": "1:00 pm",
+            "lectureEndTime": "2:00 pm"
+        },
+        {
+            "lectureName": "SFMO",
+            "lectureFacultyName": "Sangita Gaikwad",
+            "lectureBatch": "All",
+            "lectureStartTime": "2:00 pm",
+            "lectureEndTime": "3:00 pm"
+        },
+        {
+            "lectureName": "Mini Project",
+            "lectureFacultyName": "",
+            "lectureBatch": "All",
+            "lectureStartTime": "3:00 pm",
+            "lectureEndTime": "4:00 pm"
+        }
+    ],
+    "Thursday": [
+        {
+            "lectureName": "I&EC",
+            "lectureFacultyName": "Praseeda Nambisan",
+            "lectureBatch": "All",
+            "lectureStartTime": "10:15 am",
+            "lectureEndTime": "11:15 am"
+        },
+        {
+            "lectureName": "SFMO",
+            "lectureFacultyName": "Sangita Gaikwad",
+            "lectureBatch": "All",
+            "lectureStartTime": "11:15 am",
+            "lectureEndTime": "12:15 pm"
+        },
+        {
+            "lectureName": "DAPE Labs",
+            "lectureFacultyName": "Ravindra Joshi",
+            "lectureBatch": "K1",
+            "lectureStartTime": "1:00 pm",
+            "lectureEndTime": "4:00 pm"
+        },
+        {
+            "lectureName": "I&EC Labs",
+            "lectureFacultyName": "Praseeda Nambisan",
+            "lectureBatch": "K2",
+            "lectureStartTime": "1:00 pm",
+            "lectureEndTime": "4:00 pm"
+        },
+        {
+            "lectureName": "SFMO Labs",
+            "lectureFacultyName": "Anita Kumari",
+            "lectureBatch": "K3",
+            "lectureStartTime": "1:00 pm",
+            "lectureEndTime": "4:00 pm"
+        }
+    ],
+    "Friday": [
+        {
+            "lectureName": "I&EC Labs",
+            "lectureFacultyName": "Praseeda Nambisan",
+            "lectureBatch": "K3",
+            "lectureStartTime": "9:00 am",
+            "lectureEndTime": "12:15 pm"
+        },
+        {
+            "lectureName": "SFMO Labs",
+            "lectureFacultyName": "Anita Kumari",
+            "lectureBatch": "K1",
+            "lectureStartTime": "1:00 pm",
+            "lectureEndTime": "4:00 pm"
+        },
+        {
+            "lectureName": "DAPE Labs",
+            "lectureFacultyName": "Prasad Parulekar",
+            "lectureBatch": "K2",
+            "lectureStartTime": "1:00 pm",
+            "lectureEndTime": "4:00 pm"
+        }
+    ],
+    "Saturday": [
+        {
+            "lectureName": "NMCE",
+            "lectureFacultyName": "GT Thampi / Sachi Natu",
+            "lectureBatch": "All",
+            "lectureStartTime": "10:15 am",
+            "lectureEndTime": "12:15 pm"
+        },
+        {
+            "lectureName": "NMCE Labs",
+            "lectureFacultyName": "Nita Mehta",
+            "lectureBatch": "K1",
+            "lectureStartTime": "1:00 pm",
+            "lectureEndTime": "4:00 pm"
+        },
+        {
+            "lectureName": "NMCE Labs",
+            "lectureFacultyName": "Sangita Gaikwad",
+            "lectureBatch": "K2/K3",
+            "lectureStartTime": "1:00 pm",
+            "lectureEndTime": "4:00 pm"
+        }
+    ]
+}
