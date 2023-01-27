@@ -1,0 +1,152 @@
+{
+    "Monday": [
+        {
+            "lectureName": "CCL Labs",
+            "lectureFacultyName": "Geeta Karande",
+            "lectureBatch": "B22",
+            "lectureStartTime": "10:30 am",
+            "lectureEndTime": "12:30 pm"
+        },
+        {
+            "lectureName": "BCL Labs",
+            "lectureFacultyName": "Gopal Pardesi",
+            "lectureBatch": "B21",
+            "lectureStartTime": "10:30 pm",
+            "lectureEndTime": "3:30 pm"
+        },
+        {
+            "lectureName": "BCL Labs",
+            "lectureFacultyName": "Chetan Agrawal",
+            "lectureBatch": "B22",
+            "lectureStartTime": "1:30 pm",
+            "lectureEndTime": "3:30 pm"
+        },
+        {
+            "lectureName": "CCL Labs",
+            "lectureFacultyName": "Sheetal Gondal",
+            "lectureBatch": "B23",
+            "lectureStartTime": "1:30 pm",
+            "lectureEndTime": "3:30 pm"
+        },
+        {
+            "lectureName": "PM",
+            "lectureFacultyName": "Sanjay Pandey/Sheetal Gondal",
+            "lectureBatch": "All",
+            "lectureStartTime": "3:30 pm",
+            "lectureEndTime": "5:30 pm"
+        },
+        {
+            "lectureName": "FM",
+            "lectureFacultyName": "Sunil Gidwani",
+            "lectureBatch": "All",
+            "lectureStartTime": "3:30 pm",
+            "lectureEndTime": "5:30 pm"
+        }
+    ],
+    "Tuesday": [
+        {
+            "lectureName": "CCL Labs",
+            "lectureFacultyName": "Geeta Karande",
+            "lectureBatch": "B21",
+            "lectureStartTime": "10:30 am",
+            "lectureEndTime": "12:30 pm"
+        },
+        {
+            "lectureName": "BCL Labs",
+            "lectureFacultyName": "Chetan Agrawal",
+            "lectureBatch": "B23",
+            "lectureStartTime": "10:30 am",
+            "lectureEndTime": "12:30 pm"
+        },
+        {
+            "lectureName": "SM",
+            "lectureFacultyName": "Nikhilesh Joshi",
+            "lectureBatch": "All",
+            "lectureStartTime": "1:30 pm",
+            "lectureEndTime": "2:30 pm"
+        },
+        {
+            "lectureName": "BC",
+            "lectureFacultyName": "Gopal Pardesi",
+            "lectureBatch": "All",
+            "lectureStartTime": "2:30 pm",
+            "lectureEndTime": "3:30 pm"
+        }
+    ],
+    "Wednesday": [
+        {
+            "lectureName": " MAJOR PROJECT II WORK",
+            "lectureFacultyName": "",
+            "lectureBatch": "",
+            "lectureStartTime": "8:30 am",
+            "lectureEndTime": "5:30 pm"
+        }
+    ],
+    "Thursday": [
+        {
+            "lectureName": "SM",
+            "lectureFacultyName": "Nikhilesh Joshi",
+            "lectureBatch": "All",
+            "lectureStartTime": "11:30 am",
+            "lectureEndTime": "12:30 pm"
+        },
+        {
+            "lectureName": "UID",
+            "lectureFacultyName": "Geeta Karande",
+            "lectureBatch": "All",
+            "lectureStartTime": "1:30 pm",
+            "lectureEndTime": "2:30 pm"
+        },
+        {
+            "lectureName": "BC",
+            "lectureFacultyName": "Gopal Pardesi",
+            "lectureBatch": "All",
+            "lectureStartTime": "2:30 am",
+            "lectureEndTime": "3:30 pm"
+        }
+    ],
+    "Friday": [
+        {
+            "lectureName": "UID",
+            "lectureFacultyName": "Geeta Karande",
+            "lectureBatch": "All",
+            "lectureStartTime": "10:30 am",
+            "lectureEndTime": "11:30 pm"
+        },
+        {
+            "lectureName": "UID",
+            "lectureFacultyName": "Geeta Karande",
+            "lectureBatch": "All",
+            "lectureStartTime": "11:30 am",
+            "lectureEndTime": "12:30 pm"
+        },
+        {
+            "lectureName": "SM",
+            "lectureFacultyName": "Nikhilesh Joshi",
+            "lectureBatch": "All",
+            "lectureStartTime": "1:30 pm",
+            "lectureEndTime": "2:30 pm"
+        },
+        {
+            "lectureName": "BC",
+            "lectureFacultyName": "Chetan Agrawal",
+            "lectureBatch": "All",
+            "lectureStartTime": "2:30 pm",
+            "lectureEndTime": "3:30 pm"
+        },
+        {
+            "lectureName": "PM",
+            "lectureFacultyName": "Sanjay Pandey/Sheetal Gondal",
+            "lectureBatch": "All",
+            "lectureStartTime": "3:30 pm",
+            "lectureEndTime": "5:30 pm"
+        },
+        {
+            "lectureName": "FM",
+            "lectureFacultyName": "Sunil Gidwani",
+            "lectureBatch": "All",
+            "lectureStartTime": "3:30 pm",
+            "lectureEndTime": "5:30 pm"
+        }
+    ]
+}

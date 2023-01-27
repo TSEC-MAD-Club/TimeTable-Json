@@ -1,0 +1,210 @@
+{
+    "Monday": [
+        {
+            "lectureName": "SMA",
+            "lectureFacultyName": "Ujjwala Bharambe",
+            "lectureBatch": "All",
+            "lectureStartTime": "10:15 am",
+            "lectureEndTime": "11:15 am"
+        },
+        {
+            "lectureName": "ADS",
+            "lectureFacultyName": "Seema Kolkur",
+            "lectureBatch": "All",
+            "lectureStartTime": "11:15 am",
+            "lectureEndTime": "12:15 pm"
+        },
+        {
+            "lectureName": "DL",
+            "lectureFacultyName": "Vaishali Suryawanshi",
+            "lectureBatch": "All",
+            "lectureStartTime": "11:15 am",
+            "lectureEndTime": "12:15 pm"
+        },
+        {
+            "lectureName": "SMA Labs",
+            "lectureFacultyName": "Ujjwala Bharambe",
+            "lectureBatch": "C31",
+            "lectureStartTime": "1:00 pm",
+            "lectureEndTime": "3:00 pm"
+        },
+        {
+            "lectureName": "DC",
+            "lectureFacultyName": "Sonal Shroff",
+            "lectureBatch": "C32",
+            "lectureStartTime": "1:00 pm",
+            "lectureEndTime": "3:00 pm"
+        },
+        {
+            "lectureName": "SMA",
+            "lectureFacultyName": "Sakshi Surve",
+            "lectureBatch": "C33",
+            "lectureStartTime": "1:00 pm",
+            "lectureEndTime": "3:00 pm"
+        },
+        {
+            "lectureName": "PM/FM",
+            "lectureFacultyName": "Shilpa Verma",
+            "lectureBatch": "All",
+            "lectureStartTime": "3:00 pm",
+            "lectureEndTime": "4:30 pm"
+        }
+    ],
+    "Tuesday": [
+        {
+            "lectureName": "DC Labs",
+            "lectureFacultyName": "Sonal Shroff",
+            "lectureBatch": "C31",
+            "lectureStartTime": "10:15 am",
+            "lectureEndTime": "12:15 pm"
+        },
+        {
+            "lectureName": "SMA Labs",
+            "lectureFacultyName": "Ujjwala Bharambe",
+            "lectureBatch": "C32",
+            "lectureStartTime": "10:15 am",
+            "lectureEndTime": "12:15 pm"
+        },
+        {
+            "lectureName": "DC Labs",
+            "lectureFacultyName": "Urvi Kore",
+            "lectureBatch": "C33",
+            "lectureStartTime": "10:15 am",
+            "lectureEndTime": "12:15 pm"
+        },
+        {
+            "lectureName": "ADS",
+            "lectureFacultyName": "Seema Kolkur",
+            "lectureBatch": "All",
+            "lectureStartTime": "1:00 pm",
+            "lectureEndTime": "2:00 pm"
+        },
+        {
+            "lectureName": "DL",
+            "lectureFacultyName": "Tanuja Sarode",
+            "lectureBatch": "All",
+            "lectureStartTime": "1:00 pm",
+            "lectureEndTime": "2:00 pm"
+        },
+        {
+            "lectureName": "DC",
+            "lectureFacultyName": "Adil Shaikh",
+            "lectureBatch": "All",
+            "lectureStartTime": "2:00 pm",
+            "lectureEndTime": "3:00 pm"
+        }
+    ],
+    "Wednesday": [
+        {
+            "lectureName": "PR",
+            "lectureFacultyName": "",
+            "lectureBatch": "C31",
+            "lectureStartTime": "10:15 am",
+            "lectureEndTime": "5:00 pm"
+        },
+        {
+            "lectureName": "PR",
+            "lectureFacultyName": "",
+            "lectureBatch": "C32",
+            "lectureStartTime": "10:15 am",
+            "lectureEndTime": "5:00 pm"
+        },
+        {
+            "lectureName": "PR",
+            "lectureFacultyName": "",
+            "lectureBatch": "C33",
+            "lectureStartTime": "10:15 am",
+            "lectureEndTime": "5:00 pm"
+        }
+    ],
+    "Thursday": [
+        {
+            "lectureName": "SMA",
+            "lectureFacultyName": "Ujjwala Bharambe",
+            "lectureBatch": "All",
+            "lectureStartTime": "11:15 am",
+            "lectureEndTime": "11:15 am"
+        },
+        {
+            "lectureName": "DC",
+            "lectureFacultyName": "Sonal Shroff",
+            "lectureBatch": "All",
+            "lectureStartTime": "11:15 am",
+            "lectureEndTime": "12:15 pm"
+        },
+        {
+            "lectureName": "DL",
+            "lectureFacultyName": "Vaishali Suryawanshi",
+            "lectureBatch": "C3",
+            "lectureStartTime": "1:00 pm",
+            "lectureEndTime": "3:00 pm"
+        },
+        {
+            "lectureName": "ADS",
+            "lectureFacultyName": "Archana Patankar",
+            "lectureBatch": "C3",
+            "lectureStartTime": "1:00 pm",
+            "lectureEndTime": "3:00 pm"
+        }
+    ],
+    "Friday": [
+        {
+            "lectureName": "SMA",
+            "lectureFacultyName": "Ujjwala Bharambe",
+            "lectureBatch": "All",
+            "lectureStartTime": "11:15 am",
+            "lectureEndTime": "12:15 am"
+        },
+        {
+            "lectureName": "DC",
+            "lectureFacultyName": "Sonal Shroff",
+            "lectureBatch": "All",
+            "lectureStartTime": "1:00 pm",
+            "lectureEndTime": "2:00 pm"
+        },
+        {
+            "lectureName": "ADS",
+            "lectureFacultyName": "Archana Patankar",
+            "lectureBatch": "All",
+            "lectureStartTime": "2:00 pm",
+            "lectureEndTime": "3:00 pm"
+        },
+        {
+            "lectureName": "DL",
+            "lectureFacultyName": "Vaishali Suryawanshi",
+            "lectureBatch": "All",
+            "lectureStartTime": "2:00 pm",
+            "lectureEndTime": "3:00 pm"
+        },
+        {
+            "lectureName": "PM/FM",
+            "lectureFacultyName": "Shilpa Verma",
+            "lectureBatch": "All",
+            "lectureStartTime": "3:00 pm",
+            "lectureEndTime": "4:30 pm"
+        }
+    ],
+    "Saturday": [
+        {
+            "lectureName": "PR",
+            "lectureFacultyName": "",
+            "lectureBatch": "C31",
+            "lectureStartTime": "10:15 am",
+            "lectureEndTime": "12:15 pm"
+        },
+        {
+            "lectureName": "PR",
+            "lectureFacultyName": "",
+            "lectureBatch": "C32",
+            "lectureStartTime": "10:15 am",
+            "lectureEndTime": "5:00 pm"
+        },
+        {
+            "lectureName": "PR",
+            "lectureFacultyName": "",
+            "lectureBatch": "C33",
+            "lectureStartTime": "10:15 am",
+            "lectureEndTime": "5:00 pm"
+        }
+    ]
+}

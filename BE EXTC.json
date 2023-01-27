@@ -1,0 +1,138 @@
+{
+   "Monday": [
+      {
+         "lectureName": "OCN",
+         "lectureFacultyName": "Anuradha Rao",
+         "lectureBatch": "A1",
+         "lectureStartTime": "10:15 am",
+         "lectureEndTime": "12:15 pm"
+      },
+      {
+         "lectureName": "OCN",
+         "lectureFacultyName": "Anuradha Rao",
+         "lectureBatch": "All",
+         "lectureStartTime": "1:00 pm",
+         "lectureEndTime": "3:00 pm"
+      },
+      {
+         "lectureName": "IE",
+         "lectureFacultyName": "",
+         "lectureBatch": "",
+         "lectureStartTime": "3:00 pm",
+         "lectureEndTime": "5:00 pm"
+      }
+   ],
+   "Tuesday": [
+      {
+         "lectureName": "NLP",
+         "lectureFacultyName": "Maniroja Edinburgh",
+         "lectureBatch": "All",
+         "lectureStartTime": "10:15 am",
+         "lectureEndTime": "11:15 am"
+      },
+      {
+         "lectureName": "WN",
+         "lectureFacultyName": "Ashwini Kunte",
+         "lectureBatch": "All",
+         "lectureStartTime": "11:15 am",
+         "lectureEndTime": "12:15 pm"
+      },
+      {
+         "lectureName": "NLP",
+         "lectureFacultyName": "Maniroja Edinburgh",
+         "lectureBatch": "All",
+         "lectureStartTime": "11:15 am",
+         "lectureEndTime": "12:15 pm"
+      },
+      {
+         "lectureName": "SC",
+         "lectureFacultyName": "Amit Hatekar",
+         "lectureBatch": "All",
+         "lectureStartTime": "1:00 pm",
+         "lectureEndTime": "2:00 pm"
+      },
+      {
+         "lectureName": "AR&VR",
+         "lectureFacultyName": "Shrishti Bhatia",
+         "lectureBatch": "All",
+         "lectureStartTime": "1:00 pm",
+         "lectureEndTime": "2:00 pm"
+      },
+      {
+         "lectureName": "OCN",
+         "lectureFacultyName": "Ashwini Kunte",
+         "lectureBatch": "A2",
+         "lectureStartTime": "2:00 pm",
+         "lectureEndTime": "4:00 pm"
+      }
+   ],
+   "Wednesday": [
+      {
+         "lectureName": "PROJECT",
+         "lectureFacultyName": "",
+         "lectureBatch": "",
+         "lectureStartTime": "10:15 am",
+         "lectureEndTime": "5:00 pm"
+      }
+   ],
+   "Thursday": [
+      {
+         "lectureName": "WN",
+         "lectureFacultyName": "Ashwini Kunte",
+         "lectureBatch": "All",
+         "lectureStartTime": "10:15 am",
+         "lectureEndTime": "12:15 am"
+      },
+      {
+         "lectureName": "NLP",
+         "lectureFacultyName": "DT",
+         "lectureBatch": "All",
+         "lectureStartTime": "10:15 am",
+         "lectureEndTime": "12:15 pm"
+      },
+      {
+         "lectureName": "OCN",
+         "lectureFacultyName": "Anuradha Rao",
+         "lectureBatch": "All",
+         "lectureStartTime": "1:00 pm",
+         "lectureEndTime": "2:00 pm"
+      },
+      {
+         "lectureName": "OCN",
+         "lectureFacultyName": "Anuradha Rao",
+         "lectureBatch": "A4",
+         "lectureStartTime": "2:00 pm",
+         "lectureEndTime": "4:00 pm"
+      }
+   ],
+   "Friday": [
+      {
+         "lectureName": "OCN",
+         "lectureFacultyName": "Ashwini Kunte",
+         "lectureBatch": "A3",
+         "lectureStartTime": "10:15 am",
+         "lectureEndTime": "12:15 pm"
+      },
+      {
+         "lectureName": "SC",
+         "lectureFacultyName": "Amit Hatekar",
+         "lectureBatch": "All",
+         "lectureStartTime": "1:00 pm",
+         "lectureEndTime": "3:00 pm"
+      },
+      {
+         "lectureName": "AR&VR",
+         "lectureFacultyName": "Shrishti Bhatia",
+         "lectureBatch": "All",
+         "lectureStartTime": "1:00 pm",
+         "lectureEndTime": "3:00 pm"
+      },
+      {
+         "lectureName": "IE",
+         "lectureFacultyName": "",
+         "lectureBatch": "",
+         "lectureStartTime": "3:00 pm",
+         "lectureEndTime": "4:30 pm"
+      }
+   ]
+}

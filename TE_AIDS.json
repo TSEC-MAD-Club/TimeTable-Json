@@ -1,0 +1,247 @@
+{
+   "Monday": [
+      {
+         "lectureName": "CSS",
+         "lectureFacultyName": "Naveen Vaswani",
+         "lectureBatch": "All",
+         "lectureStartTime": "10:00 am",
+         "lectureEndTime": "11:00 am"
+      },
+      {
+         "lectureName": "HPC",
+         "lectureFacultyName": "Bhushan Jadhav",
+         "lectureBatch": "All",
+         "lectureStartTime": "11:00 am",
+         "lectureEndTime": "12:00 pm"
+      },
+      {
+         "lectureName": "SEPM Labs",
+         "lectureFacultyName": "Madhuri Rao",
+         "lectureBatch": "T1",
+         "lectureStartTime": "12:45 pm",
+         "lectureEndTime": "2:45 pm"
+      },
+      {
+         "lectureName": "CSS labs",
+         "lectureFacultyName": "Naveen Vaswani",
+         "lectureBatch": "T2",
+         "lectureStartTime": "12:45 pm",
+         "lectureEndTime": "2:45 pm"
+      },
+      {
+         "lectureName": "ML labs",
+         "lectureFacultyName": "Himani Deshpande",
+         "lectureBatch": "T3",
+         "lectureStartTime": "12:45 pm",
+         "lectureEndTime": "2:45 pm"
+      },
+      {
+         "lectureName": "MPR",
+         "lectureBatch": "T1",
+         "lectureStartTime": "3:00 pm",
+         "lectureEndTime": "5:00 pm"
+      },
+      {
+         "lectureName": "MPR",
+         "lectureBatch": "T2",
+         "lectureStartTime": "3:00 pm",
+         "lectureEndTime": "5:00 pm"
+      },
+      {
+         "lectureName": "MPR",
+         "lectureBatch": "T3",
+         "lectureStartTime": "3:00 pm",
+         "lectureEndTime": "5:00 pm"
+      }
+   ],
+   "Tuesday": [
+      {
+         "lectureName": "ML",
+         "lectureFacultyName": "Himani Deshpande",
+         "lectureBatch": "All",
+         "lectureStartTime": "10:00 am",
+         "lectureEndTime": "11:00 am"
+      },
+      {
+         "lectureName": "CSS",
+         "lectureFacultyName": "Naveen Vaswani",
+         "lectureBatch": "All",
+         "lectureStartTime": "11:00 am",
+         "lectureEndTime": "12:00 pm"
+      },
+      {
+         "lectureName": "CC Labs",
+         "lectureFacultyName": "Bhushan Jadhav",
+         "lectureBatch": "T1",
+         "lectureStartTime": "12:45 pm",
+         "lectureEndTime": "2:45 pm"
+      },
+      {
+         "lectureName": "SEPM labs",
+         "lectureFacultyName": "Madhuri Rao",
+         "lectureBatch": "T2",
+         "lectureStartTime": "12:45 pm",
+         "lectureEndTime": "2:45 pm"
+      },
+      {
+         "lectureName": "CSS labs",
+         "lectureFacultyName": "Naveen Vaswani",
+         "lectureBatch": "T3",
+         "lectureStartTime": "12:45 pm",
+         "lectureEndTime": "2:45 pm"
+      },
+      {
+         "lectureName": "CC",
+         "lectureFacultyName": "Bhushan Jadhav",
+         "lectureBatch": "All",
+         "lectureStartTime": "3:00 pm",
+         "lectureEndTime": "5:00 pm"
+      }
+   ],
+   "Wednesday": [
+      {
+         "lectureName": "ML",
+         "lectureFacultyName": "Himani Deshpande",
+         "lectureBatch": "All",
+         "lectureStartTime": "10:00 am",
+         "lectureEndTime": "11:00 am"
+      },
+      {
+         "lectureName": "SEPM",
+         "lectureFacultyName": "Madhuri Rao",
+         "lectureBatch": "All",
+         "lectureStartTime": "11:00 am",
+         "lectureEndTime": "12:00 pm"
+      },
+      {
+         "lectureName": "CSS",
+         "lectureFacultyName": "Naveen Vaswani",
+         "lectureBatch": "All",
+         "lectureStartTime": "12:45 am",
+         "lectureEndTime": "1:45 pm"
+      },
+      {
+         "lectureName": "HPC",
+         "lectureFacultyName": "Bhushan Jadhav",
+         "lectureBatch": "All",
+         "lectureStartTime": "1:45 am",
+         "lectureEndTime": "2:45 pm"
+      },
+      {
+         "lectureName": "CSS Labs",
+         "lectureFacultyName": "Naveen Vaswani",
+         "lectureBatch": "T1",
+         "lectureStartTime": "3:00 pm",
+         "lectureEndTime": "5:00 pm"
+      },
+      {
+         "lectureName": "CC Lab",
+         "lectureFacultyName": "Bhushan Jadhav",
+         "lectureBatch": "T2",
+         "lectureStartTime": "3:00 pm",
+         "lectureEndTime": "5:00 pm"
+      },
+      {
+         "lectureName": "DAV Lab",
+         "lectureFacultyName": "Madhuri Rao",
+         "lectureBatch": "T3",
+         "lectureStartTime": "3:00 pm",
+         "lectureEndTime": "5:00 pm"
+      }
+   ],
+   "Thursday": [
+      {
+         "lectureName": "DAV",
+         "lectureFacultyName": "Monica Tolani",
+         "lectureBatch": "All",
+         "lectureStartTime": "10:00 am",
+         "lectureEndTime": "11:00 am"
+      },
+      {
+         "lectureName": "SEPM",
+         "lectureFacultyName": "Madhuri Rao",
+         "lectureBatch": "All",
+         "lectureStartTime": "11:00 am",
+         "lectureEndTime": "12:00 pm"
+      },
+      {
+         "lectureName": "DAV Labs",
+         "lectureFacultyName": "Naveen Vaswani",
+         "lectureBatch": "T1",
+         "lectureStartTime": "12:45 pm",
+         "lectureEndTime": "2:45 pm"
+      },
+      {
+         "lectureName": "ML labs",
+         "lectureFacultyName": "Himani Deshpande",
+         "lectureBatch": "T2",
+         "lectureStartTime": "12:45 pm",
+         "lectureEndTime": "2:45 pm"
+      },
+      {
+         "lectureName": "SEPM labs",
+         "lectureFacultyName": "Madhuri Rao",
+         "lectureBatch": "T3",
+         "lectureStartTime": "12:45 pm",
+         "lectureEndTime": "2:45 pm"
+      },
+      {
+         "lectureName": "HPC",
+         "lectureFacultyName": "Bhushan Jadhav",
+         "lectureBatch": "All",
+         "lectureStartTime": "3:00 pm",
+         "lectureEndTime": "4:00 pm"
+      }
+   ],
+   "Friday": [
+      {
+         "lectureName": "DAV",
+         "lectureFacultyName": "Monica Tolani",
+         "lectureBatch": "All",
+         "lectureStartTime": "10:00 am",
+         "lectureEndTime": "11:00 am"
+      },
+      {
+         "lectureName": "SEPM",
+         "lectureFacultyName": "Madhuri Rao",
+         "lectureBatch": "All",
+         "lectureStartTime": "11:00 am",
+         "lectureEndTime": "12:00 pm"
+      },
+      {
+         "lectureName": "DAV",
+         "lectureFacultyName": "Naveen Vaswani",
+         "lectureBatch": "All",
+         "lectureStartTime": "12:45 am",
+         "lectureEndTime": "1:45 pm"
+      },
+      {
+         "lectureName": "ML",
+         "lectureFacultyName": "Himani Deshpande",
+         "lectureBatch": "All",
+         "lectureStartTime": "1:45 am",
+         "lectureEndTime": "2:45 pm"
+      },
+      {
+         "lectureName": "ML Labs",
+         "lectureFacultyName": "Himani Deshpande",
+         "lectureBatch": "T1",
+         "lectureStartTime": "3:00 pm",
+         "lectureEndTime": "5:00 pm"
+      },
+      {
+         "lectureName": "DAV Labs",
+         "lectureFacultyName": "Naveen Vaswani",
+         "lectureBatch": "T2",
+         "lectureStartTime": "3:00 pm",
+         "lectureEndTime": "5:00 pm"
+      },
+      {
+         "lectureName": "CC Labs",
+         "lectureFacultyName": "Bhushan Jadhav",
+         "lectureBatch": "T3",
+         "lectureStartTime": "3:00 pm",
+         "lectureEndTime": "5:00 pm"
+      }
+   ]
+}
