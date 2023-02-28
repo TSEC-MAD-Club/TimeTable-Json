@@ -86,7 +86,14 @@
     {
       "lectureName": "EP/EC",
       "lectureFacultyName": " ",
-      "lectureBatch": "I1I2",
+      "lectureBatch": "I1",
+      "lectureStartTime": "10:15 am",
+      "lectureEndTime": "12:15 pm"
+    },
+    {
+      "lectureName": "EP/EC",
+      "lectureFacultyName": " ",
+      "lectureBatch": "I2",
       "lectureStartTime": "10:15 am",
       "lectureEndTime": "12:15 pm"
     },
