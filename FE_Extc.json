@@ -123,7 +123,14 @@
     {
       "lectureName": "EMECH",
       "lectureFacultyName": "",
-      "lectureBatch": "G1G2",
+      "lectureBatch": "G1",
+      "lectureStartTime": "1:00 pm",
+      "lectureEndTime": "3:00 pm"
+    },
+     {
+      "lectureName": "EMECH",
+      "lectureFacultyName": "",
+      "lectureBatch": "G2",
       "lectureStartTime": "1:00 pm",
       "lectureEndTime": "3:00 pm"
     }
