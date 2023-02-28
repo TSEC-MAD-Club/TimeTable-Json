@@ -10,7 +10,14 @@
     {
       "lectureName": "EP/EC labs",
       "lectureFacultyName": " ",
-      "lectureBatch": "F1F2 ",
+      "lectureBatch": "F1",
+      "lectureStartTime": "10:15 pm",
+      "lectureEndTime": "12:15 pm"
+    },
+    {
+      "lectureName": "EP/EC labs",
+      "lectureFacultyName": " ",
+      "lectureBatch": "F2",
       "lectureStartTime": "10:15 pm",
       "lectureEndTime": "12:15 pm"
     },
