@@ -42,7 +42,14 @@
     {
       "lectureName": "EP/EC labs",
       "lectureFacultyName": " ",
-      "lectureBatch": "D1D2",
+      "lectureBatch": "D1",
+      "lectureStartTime": "8:00 am",
+      "lectureEndTime": "10:00 am"
+    },
+    {
+      "lectureName": "EP/EC labs",
+      "lectureFacultyName": " ",
+      "lectureBatch": "D2",
       "lectureStartTime": "8:00 am",
       "lectureEndTime": "10:00 am"
     },
@@ -88,7 +95,14 @@
     {
       "lectureName": "EMECH labs",
       "lectureFacultyName": " ",
-      "lectureBatch": "D1D2",
+      "lectureBatch": "D1",
+      "lectureStartTime": "8:00 am",
+      "lectureEndTime": "10:00 am"
+    },
+    {
+      "lectureName": "EMECH labs",
+      "lectureFacultyName": " ",
+      "lectureBatch": "D2",
       "lectureStartTime": "8:00 am",
       "lectureEndTime": "10:00 am"
     },
