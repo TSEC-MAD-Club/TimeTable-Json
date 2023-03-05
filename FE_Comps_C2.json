@@ -10,7 +10,14 @@
     {
       "lectureName": "EMECH labs",
       "lectureFacultyName": " ",
-      "lectureBatch": "E1E2",
+      "lectureBatch": "E1",
+      "lectureStartTime": "10:15 am",
+      "lectureEndTime": "12:15 pm"
+    },
+    {
+      "lectureName": "EMECH labs",
+      "lectureFacultyName": " ",
+      "lectureBatch": "E2",
       "lectureStartTime": "10:15 am",
       "lectureEndTime": "12:15 pm"
     },
