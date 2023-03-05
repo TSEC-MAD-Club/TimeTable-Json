@@ -17,7 +17,7 @@
       {
          "lectureName": "IE",
          "lectureFacultyName": "",
-         "lectureBatch": "",
+         "lectureBatch": "All",
          "lectureStartTime": "3:00 pm",
          "lectureEndTime": "5:00 pm"
       }
@@ -70,7 +70,7 @@
       {
          "lectureName": "PROJECT",
          "lectureFacultyName": "",
-         "lectureBatch": "",
+         "lectureBatch": "All",
          "lectureStartTime": "10:15 am",
          "lectureEndTime": "5:00 pm"
       }
@@ -130,7 +130,7 @@
       {
          "lectureName": "IE",
          "lectureFacultyName": "",
-         "lectureBatch": "",
+         "lectureBatch": "All",
          "lectureStartTime": "3:00 pm",
          "lectureEndTime": "4:30 pm"
       }
