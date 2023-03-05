@@ -47,7 +47,14 @@
     {
       "lectureName": "BEE labs",
       "lectureFacultyName": " ",
-      "lectureBatch": "F1F2 ",
+      "lectureBatch": "F1",
+      "lectureStartTime": "10:15 am",
+      "lectureEndTime": "12:15 pm"
+    },
+    {
+      "lectureName": "BEE labs",
+      "lectureFacultyName": " ",
+      "lectureBatch": "F2 ",
       "lectureStartTime": "10:15 am",
       "lectureEndTime": "12:15 pm"
     },
@@ -116,7 +123,14 @@
     {
       "lectureName": "EMECH",
       "lectureFacultyName": " ",
-      "lectureBatch": "F1F2",
+      "lectureBatch": "F1",
+      "lectureStartTime": "10:15 am",
+      "lectureEndTime": "11:15 am"
+    },
+     {
+      "lectureName": "EMECH",
+      "lectureFacultyName": " ",
+      "lectureBatch": "F2",
       "lectureStartTime": "10:15 am",
       "lectureEndTime": "11:15 am"
     },
