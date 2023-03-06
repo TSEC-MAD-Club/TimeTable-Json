@@ -1,91 +1,91 @@
 {
     "Monday": [
-     {
-         "lectureName": "IPMV",
-         "lectureFacultyName": "Dhananjay T.",
-         "lectureBatch": "All",
-         "lectureStartTime": "8:00am",
-         "lectureEndTime": "10:00am"
-      },
-       {
-          "lectureName": "Linux Lab",
-          "lectureFacultyName": "Manoj S. Kavedia", 
-          "lectureBatch": "A1",
-          "lectureStartTime": "10:15 am",
-          "lectureEndTime": "12:15pm"
-       },
-       {
-          "lectureName": "CCN Lab",
-          "lectureFacultyName": "Jyoti Kashyab",
-          "lectureBatch": "A2",
-          "lectureStartTime": "10:15am",
-          "lectureEndTime": "12:15 pm"
-       },
-       {
-         "lectureName": "IPMV Lab",
-         "lectureFacultyName": "Dhananjay T.",
-         "lectureBatch": "A3",
-         "lectureStartTime": "10:15am",
-         "lectureEndTime": "12:15 pm"
-       },
-       {
-          "lectureName": "EMA",
-          "lectureFacultyName": "Jyoti Kashyab",
-          "lectureBatch": "All",
-          "lectureStartTime": "1:00 pm",
-          "lectureEndTime": "3:00 pm"
-       }
+        {
+            "lectureName": "IPMV",
+            "lectureFacultyName": "Dhananjay T.",
+            "lectureBatch": "All",
+            "lectureStartTime": "8:00am",
+            "lectureEndTime": "10:00am"
+        },
+        {
+            "lectureName": "Linux Lab",
+            "lectureFacultyName": "Manoj S. Kavedia",
+            "lectureBatch": "A1",
+            "lectureStartTime": "10:15 am",
+            "lectureEndTime": "12:15pm"
+        },
+        {
+            "lectureName": "CCN Lab",
+            "lectureFacultyName": "Jyoti Kashyab",
+            "lectureBatch": "A2",
+            "lectureStartTime": "10:15am",
+            "lectureEndTime": "12:15 pm"
+        },
+        {
+            "lectureName": "IPMV Lab",
+            "lectureFacultyName": "Dhananjay T.",
+            "lectureBatch": "A3",
+            "lectureStartTime": "10:15am",
+            "lectureEndTime": "12:15 pm"
+        },
+        {
+            "lectureName": "EMA",
+            "lectureFacultyName": "Jyoti Kashyab",
+            "lectureBatch": "All",
+            "lectureStartTime": "1:00 pm",
+            "lectureEndTime": "3:00 pm"
+        }
     ],
     "Tuesday": [
-       {
-          "lectureName": "DBMS",
-          "lectureFacultyName": "Manoj S. Kavedia",
-          "lectureBatch": "All",
-          "lectureStartTime": "9:00 am",
-          "lectureEndTime": "10:00 am"
-       },
-       {
-          "lectureName": "DBMS",
-          "lectureFacultyName": "Manoj S. Kavedia",
-          "lectureBatch": "All",
-          "lectureStartTime": "10:15 am",
-          "lectureEndTime": "11:15 am"
-       },
-       {
-          "lectureName": "CCN",
-          "lectureFacultyName": "Jyoti Kashyab",
-          "lectureBatch": "All",
-          "lectureStartTime": "11:15am",
-          "lectureEndTime": "12:15 pm"
-       },
-       { 
-         "lectureName": "EMA Lab",
-         "lectureFacultyName": "Jyoti Kashyab",
-         "lectureBatch": "A1",
-         "lectureStartTime": "1:00pm",
-         "lectureEndTime": "3:00 pm"
-       },
-       { 
-         "lectureName": "IPMV Lab",
-         "lectureFacultyName": "Dhananjay T.",
-         "lectureBatch": "A2",
-         "lectureStartTime": "1:00pm",
-         "lectureEndTime": "3:00 pm"
-       },
-       { 
-         "lectureName": "CCN Lab",
-         "lectureFacultyName": "Anuradha Rao",
-         "lectureBatch": "A3",
-         "lectureStartTime": "1:00pm",
-         "lectureEndTime": "3:00 pm"
-       },
-       { 
-         "lectureName": "CCN Lab",
-         "lectureFacultyName": "Anuradha Rao",
-         "lectureBatch": "A1",
-         "lectureStartTime": "3:00pm",
-         "lectureEndTime": "4:00 pm"
-       }
+        {
+            "lectureName": "DBMS",
+            "lectureFacultyName": "Manoj S. Kavedia",
+            "lectureBatch": "All",
+            "lectureStartTime": "9:00 am",
+            "lectureEndTime": "10:00 am"
+        },
+        {
+            "lectureName": "DBMS",
+            "lectureFacultyName": "Manoj S. Kavedia",
+            "lectureBatch": "All",
+            "lectureStartTime": "10:15 am",
+            "lectureEndTime": "11:15 am"
+        },
+        {
+            "lectureName": "CCN",
+            "lectureFacultyName": "Jyoti Kashyab",
+            "lectureBatch": "All",
+            "lectureStartTime": "11:15am",
+            "lectureEndTime": "12:15 pm"
+        },
+        {
+            "lectureName": "EMA Lab",
+            "lectureFacultyName": "Jyoti Kashyab",
+            "lectureBatch": "A1",
+            "lectureStartTime": "1:00pm",
+            "lectureEndTime": "3:00 pm"
+        },
+        {
+            "lectureName": "IPMV Lab",
+            "lectureFacultyName": "Dhananjay T.",
+            "lectureBatch": "A2",
+            "lectureStartTime": "1:00pm",
+            "lectureEndTime": "3:00 pm"
+        },
+        {
+            "lectureName": "CCN Lab",
+            "lectureFacultyName": "Anuradha Rao",
+            "lectureBatch": "A3",
+            "lectureStartTime": "1:00pm",
+            "lectureEndTime": "3:00 pm"
+        },
+        {
+            "lectureName": "CCN Lab",
+            "lectureFacultyName": "Anuradha Rao",
+            "lectureBatch": "A1",
+            "lectureStartTime": "3:00pm",
+            "lectureEndTime": "4:00 pm"
+        }
     ],
     "Wednesday": [
         {
@@ -94,79 +94,79 @@
             "lectureBatch": "All",
             "lectureStartTime": "8:00am",
             "lectureEndTime": "9:00am"
-         },
-         { 
+        },
+        {
             "lectureName": "ANNFL",
             "lectureFacultyName": "Maniroja Edinburgh",
             "lectureBatch": "All",
             "lectureStartTime": "9:00am",
             "lectureEndTime": "10:00am"
-         },
-         { 
+        },
+        {
             "lectureName": "ANNFL",
             "lectureFacultyName": "Maniroja Edinburgh",
             "lectureBatch": "All",
             "lectureStartTime": "10:15am",
             "lectureEndTime": "11:15Am"
-         },
-         {
+        },
+        {
             "lectureName": "CCN",
             "lectureFacultyName": "Anuradha Rao",
             "lectureBatch": "All",
             "lectureStartTime": "11:15am",
             "lectureEndTime": "12:15 pm"
-         },
-         { 
-           "lectureName": "EMA",
-           "lectureFacultyName": "Jyoti Kashyab",
-           "lectureBatch": "All",
-           "lectureStartTime": "1:00pm",
-           "lectureEndTime": "2:00 pm"
-         },
-         { 
-           "lectureName": "Linux Lab",
-           "lectureFacultyName": "Manoj S. Kavedia",
-           "lectureBatch": "A2",
-           "lectureStartTime": "2:00pm",
-           "lectureEndTime": "4:00 pm"
-         },
-         {
-           "lectureName": "Mini Project",
-           "lectureFacultyName": " ",
-           "lectureBatch": "A1/A3",
-           "lectureStartTime": "2:00pm",
-           "lectureEndTime": "4:00 pm"
-         }
+        },
+        {
+            "lectureName": "EMA",
+            "lectureFacultyName": "Jyoti Kashyab",
+            "lectureBatch": "All",
+            "lectureStartTime": "1:00pm",
+            "lectureEndTime": "2:00 pm"
+        },
+        {
+            "lectureName": "Linux Lab",
+            "lectureFacultyName": "Manoj S. Kavedia",
+            "lectureBatch": "A2",
+            "lectureStartTime": "2:00pm",
+            "lectureEndTime": "4:00 pm"
+        },
+        {
+            "lectureName": "Mini Project",
+            "lectureFacultyName": " ",
+            "lectureBatch": "A1/A3",
+            "lectureStartTime": "2:00pm",
+            "lectureEndTime": "4:00 pm"
+        }
     ],
     "Thursday": [
-        { 
+        {
             "lectureName": "ANNFL",
             "lectureFacultyName": "Maniroja Edinburgh",
             "lectureBatch": "All",
             "lectureStartTime": "9:00am",
             "lectureEndTime": "10:00am"
-         },
-       { 
-          "lectureName": "DBMS",
-          "lectureFacultyName": "Manoj S. Kavedia",
-          "lectureBatch": "All",
-          "lectureStartTime": "10:15am",
-          "lectureEndTime": "11:15 am"
-       },
-       {
-         "lectureName": "CCN",
-         "lectureFacultyName": "Jyoti Kashyab",
-         "lectureBatch": "All",
-         "lectureStartTime": "11:15am",
-         "lectureEndTime": "12:15 pm"
-       },
-         { 
+        },
+        {
+            "lectureName": "DBMS",
+            "lectureFacultyName": "Manoj S. Kavedia",
+            "lectureBatch": "All",
+            "lectureStartTime": "10:15am",
+            "lectureEndTime": "11:15 am"
+        },
+        {
+            "lectureName": "CCN",
+            "lectureFacultyName": "Jyoti Kashyab",
+            "lectureBatch": "All",
+            "lectureStartTime": "11:15am",
+            "lectureEndTime": "12:15 pm"
+        },
+        {
             "lectureName": "Mini Project",
-            "lectureFacultyName": " Uttara Bhatt" and " SB "
+            "lectureFacultyName": " Uttara Bhatt",
             "lectureBatch": "All",
             "lectureStartTime": "1.00pm",
             "lectureEndTime": "3:00 pm"
-          }
+        }
     ],
     "Friday": [
         {
@@ -176,19 +176,19 @@
             "lectureStartTime": "10:15am",
             "lectureEndTime": "12.15pm"
         },
-       {
-          "lectureName": "IPMV Lab",
-          "lectureFacultyName": "Dhananjay T.",
-          "lectureBatch": "A1",
-          "lectureStartTime": "1:00pm",
-          "lectureEndTime": "3:00 pm"
-       },
-       {
-          "lectureName": "EMA Lab",
-          "lectureFacultyName": "Jyoti Kashyab",
-          "lectureBatch": "A2",
-          "lectureStartTime": "1:00pm",
-          "lectureEndTime": "3:00 pm"
+        {
+            "lectureName": "IPMV Lab",
+            "lectureFacultyName": "Dhananjay T.",
+            "lectureBatch": "A1",
+            "lectureStartTime": "1:00pm",
+            "lectureEndTime": "3:00 pm"
+        },
+        {
+            "lectureName": "EMA Lab",
+            "lectureFacultyName": "Jyoti Kashyab",
+            "lectureBatch": "A2",
+            "lectureStartTime": "1:00pm",
+            "lectureEndTime": "3:00 pm"
         },
         {
             "lectureName": "Linux Lab",
@@ -197,19 +197,19 @@
             "lectureStartTime": "1:00pm",
             "lectureEndTime": "3:00 pm"
         },
-       {
-          "lectureName": "EMA Lab",
-          "lectureFacultyName": "Jyoti Kashyab",
-          "lectureBatch": "A3",
-          "lectureStartTime": "3:00pm",
-          "lectureEndTime": "5:00 pm"
-       },
-       { 
-           "lectureName": "Mini Project",
-           "lectureFacultyName": " ",
-           "lectureBatch": "A1/A2",
-           "lectureStartTime": "3:00pm",
-           "lectureEndTime": "5:00 pm"
+        {
+            "lectureName": "EMA Lab",
+            "lectureFacultyName": "Jyoti Kashyab",
+            "lectureBatch": "A3",
+            "lectureStartTime": "3:00pm",
+            "lectureEndTime": "5:00 pm"
+        },
+        {
+            "lectureName": "Mini Project",
+            "lectureFacultyName": " ",
+            "lectureBatch": "A1/A2",
+            "lectureStartTime": "3:00pm",
+            "lectureEndTime": "5:00 pm"
         }
-    ],
- }
+    ]
+}
