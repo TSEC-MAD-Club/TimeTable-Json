@@ -207,7 +207,14 @@
         {
             "lectureName": "Mini Project",
             "lectureFacultyName": " ",
-            "lectureBatch": "A1/A2",
+            "lectureBatch": "A1",
+            "lectureStartTime": "3:00pm",
+            "lectureEndTime": "5:00 pm"
+        },
+        {
+            "lectureName": "Mini Project",
+            "lectureFacultyName": " ",
+            "lectureBatch": "A2",
             "lectureStartTime": "3:00pm",
             "lectureEndTime": "5:00 pm"
         }
