@@ -45,7 +45,14 @@
         {
             "lectureName": "Mini Project",
             "lectureFacultyName": "Neeru Pathak",
-            "lectureBatch": "A2/A3",
+            "lectureBatch": "A2",
+            "lectureStartTime": "3:00 pm",
+            "lectureEndTime": "5:00 pm"
+        },
+        {
+            "lectureName": "Mini Project",
+            "lectureFacultyName": "Neeru Pathak",
+            "lectureBatch": "A3",
             "lectureStartTime": "3:00 pm",
             "lectureEndTime": "5:00 pm"
         }
@@ -68,7 +75,14 @@
         {
             "lectureName": "SS Tutorials",
             "lectureFacultyName": "Uttara Bhatt",
-            "lectureBatch": "A1/A2",
+            "lectureBatch": "A1",
+            "lectureStartTime": "1:00 pm",
+            "lectureEndTime": "3:00 pm"
+        },
+        {
+            "lectureName": "SS Tutorials",
+            "lectureFacultyName": "Uttara Bhatt",
+            "lectureBatch": "A2",
             "lectureStartTime": "1:00 pm",
             "lectureEndTime": "3:00 pm"
         },
@@ -82,7 +96,14 @@
         {
             "lectureName": "Mini Project",
             "lectureFacultyName": "Shristi Bhatia",
-            "lectureBatch": "A1/A2",
+            "lectureBatch": "A1",
+            "lectureStartTime": "2:00 pm",
+            "lectureEndTime": "4:00 pm"
+        },
+        {
+            "lectureName": "Mini Project",
+            "lectureFacultyName": "Shristi Bhatia",
+            "lectureBatch": "A2",
             "lectureStartTime": "2:00 pm",
             "lectureEndTime": "4:00 pm"
         },
@@ -170,7 +191,14 @@
         {
             "lectureName": "Mini Project",
             "lectureFacultyName": "",
-            "lectureBatch": "A1/A3",
+            "lectureBatch": "A1",
+            "lectureStartTime": "3:00 pm",
+            "lectureEndTime": "5:00 pm"
+        },
+        {
+            "lectureName": "Mini Project",
+            "lectureFacultyName": "",
+            "lectureBatch": "A3",
             "lectureStartTime": "3:00 pm",
             "lectureEndTime": "5:00 pm"
         },
