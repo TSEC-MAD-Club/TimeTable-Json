@@ -167,7 +167,14 @@
         {
             "lectureName": "NMCE Labs",
             "lectureFacultyName": "Sangita Gaikwad",
-            "lectureBatch": "K2/K3",
+            "lectureBatch": "K2",
+            "lectureStartTime": "1:00 pm",
+            "lectureEndTime": "4:00 pm"
+        },
+                {
+            "lectureName": "NMCE Labs",
+            "lectureFacultyName": "Sangita Gaikwad",
+            "lectureBatch": "K3",
             "lectureStartTime": "1:00 pm",
             "lectureEndTime": "4:00 pm"
         }
